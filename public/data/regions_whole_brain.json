@@ -1,0 +1,858 @@
+[
+  {
+    "name": "lh_bankssts",
+    "gltfPath": "brain_model/lh_bankssts.gltf",
+    "semiology": "As part of the superior temporal sulcus region of the lateral temporal lobe, seizures here often manifest with auditory symptoms and language disturbances. Patients might report hearing simple sounds (buzzing or ringing) or distortions in sound as an initial aura. If the dominant hemisphere is involved, the seizure can interfere with language comprehension, leading to an ictal receptive aphasia (inability to understand speech). These lateral temporal seizures typically progress quickly to impaired awareness with automatisms (such as lip-smacking or fumbling), and may induce contralateral limb posturing as the seizure spreads.",
+    "label": "Left Banks Of The Superior Temporal Sulcus",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The banks of the superior temporal sulcus (STS) are involved in high-level auditory and social perceptual processing, responding to voices, biological motion, and aspects of language."
+  },
+  {
+    "name": "lh_caudalanteriorcingulate",
+    "gltfPath": "brain_model/lh_caudalanteriorcingulate.gltf",
+    "semiology": "Seizures arising from the anterior cingulate gyrus (frontal part of the cingulate cortex) often produce dramatic motor and emotional manifestations. They typically begin with a sudden behavioral arrest and stare, followed by complex motor automatisms (such as rocking, pelvic thrusting, or even taking steps) along with vocalizations like grunts or shouts. Intense feelings of fear or other emotions can occur, and autonomic changes (flushing, changes in heart rate) are common; even urinary incontinence has been reported in some cases. The overall picture overlaps with mesial frontal lobe seizures (supplementary motor area), but prominent fear and vocal outbursts are particularly characteristic of anterior cingulate seizures.",
+    "label": "Left Caudalanteriorcingulate",
+    "videos": [
+      "https://www.youtube.com/watch?v=Ds2O4WMJjGQ"
+    ],
+    "function": "The caudal (dorsal) anterior cingulate cortex is implicated in cognitive control and performance monitoring, where conflict detection and error-related signals are commonly observed during challenging tasks."
+  },
+  {
+    "name": "lh_caudalmiddlefrontal",
+    "gltfPath": "brain_model/lh_caudalmiddlefrontal.gltf",
+    "semiology": "Seizures in the dorsolateral frontal cortex (middle frontal gyrus) often involve forced motor postures and gaze deviation. Patients may develop an unnatural tonic posturing of the contralateral arm or leg and the eyes and head may turn to the opposite side of the lesion during the seizure. If the focus is in the dominant hemisphere and spreads to Broca\u2019s area, the patient can experience ictal speech arrest \u2013 being awake but suddenly unable to speak. Some individuals report experiencing a \"forced thought\" at onset (an involuntary, sudden thought or urge), reflecting higher-order frontal cortical involvement. These seizures are usually brief and can rapidly generalize if they propagate to motor cortex, leading to secondary tonic-clonic activity.",
+    "label": "Left Caudalmiddlefrontal",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The caudal middle frontal gyrus includes lateral premotor cortex and the frontal eye fields (around Brodmann area 8), involved in planning and coordinating movements (including voluntary eye movements)."
+  },
+  {
+    "name": "lh_cuneus",
+    "gltfPath": "brain_model/lh_cuneus.gltf",
+    "semiology": "Seizures in the primary visual cortex (occipital lobe, including the cuneus) classically produce simple visual hallucinations in the opposite half of the visual field. Patients often see flashes of light, bright colors, or small flickering shapes that appear suddenly and last for seconds up to a couple of minutes. These elementary visual auras may remain isolated if the seizure is confined to the occipital lobe, but frequently the seizure spreads: about half progress to involve temporal lobe symptoms (such as loss of awareness and oral automatisms) or frontal motor symptoms. Occipital seizures commonly trigger a headache afterward, and they can be mistaken for migraine aura if not recognized.",
+    "label": "Left Cuneus",
+    "videos": [
+      "https://www.youtube.com/watch?v=ZzF9elkH23o"
+    ],
+    "function": "The cuneus is a wedge-shaped region of the medial occipital lobe that contributes to basic visual processing and visuospatial attention."
+  },
+  {
+    "name": "lh_entorhinal",
+    "gltfPath": "brain_model/lh_entorhinal.gltf",
+    "semiology": "The entorhinal cortex, as part of the medial temporal lobe, gives rise to seizures with prominent experiential auras. A common initial symptom is a vivid d\u00e9j\u00e0 vu \u2013 an overwhelming feeling that the present moment has been experienced before \u2013 or its opposite, jamais vu. Patients may also perceive a foul odor or odd taste (uncinate aura) and a rising sensation in the stomach at the seizure onset. Early in the seizure, fear or panic may strike inexplicably. As the discharge spreads to the hippocampus and amygdala, awareness is lost and the patient develops the typical oral and hand automatisms of a temporal lobe seizure (chewing, swallowing, picking at clothes). Autonomic signs are common: the patient might go pale, pupils dilate, or heart rate changes during the seizure, reflecting involvement of the limbic autonomic networks.",
+    "label": "Left Entorhinal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The entorhinal cortex is the main cortical interface with the hippocampus, playing a crucial role in the formation of declarative memories and spatial navigation."
+  },
+  {
+    "name": "lh_frontalpole",
+    "gltfPath": "brain_model/lh_frontalpole.gltf",
+    "semiology": "Frontopolar (frontal pole) seizures, arising from the most anterior part of the frontal lobes, often begin with a quiet arrest of activity. Patients may simply pause and become unresponsive or glassy-eyed, without an initial aura. Because the frontal pole is far from primary motor areas, overt movements may be minimal at onset. As the seizure evolves, it can recruit adjacent frontal regions, leading to some automatic behaviors (such as wandering, fidgeting) or late-onset motor features like head or eye turning to one side. Occasionally, patients describe an odd forced thought or sensation at the seizure\u2019s start, but memory for the event is often patchy. Frontopolar seizures are typically brief and may be mistaken for absence seizures or fainting due to their subtle appearance.",
+    "label": "Left Frontalpole",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The frontal pole (Brodmann area 10) is associated with the highest-order executive functions (e.g. planning, multitasking) and abstract thought, enabling the management of multiple goals or tasks (often termed \u201ccognitive branching\u201d)."
+  },
+  {
+    "name": "lh_fusiform",
+    "gltfPath": "brain_model/lh_fusiform.gltf",
+    "semiology": "The fusiform gyrus lies at the temporo-occipital junction and is involved in complex visual processing (recognition of faces and objects). Seizures in this region can therefore produce elaborate visual hallucinations: patients may see faces or scenes that are distorted or briefly unrecognizable. Some have reported perceiving people's faces as grotesquely altered during a seizure, reflecting the fusiform gyrus\u2019s role in face perception. Because the fusiform gyrus is part of the temporal lobe, seizures here often also include typical temporal lobe features (impaired awareness and automatisms) once they spread beyond the visual aura.",
+    "label": "Left Fusiform",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The fusiform gyrus is a ventral temporal-occipital region involved in high-level visual processing and recognition, including faces, bodies, colors, and written words."
+  },
+  {
+    "name": "lh_inferiorparietal",
+    "gltfPath": "brain_model/lh_inferiorparietal.gltf",
+    "semiology": "Seizures in the inferior parietal lobule (e.g., the angular gyrus region) often produce highly subjective sensory disturbances. Patients may experience complex distortions of their body image or spatial perception \u2013 for instance, a sensation of floating, feeling that a limb is missing or greatly enlarged, or other out-of-body-like illusions. A vertigo or dizziness aura is also common when the temporoparietal junction is involved. If the seizure is in the dominant (usually left) hemisphere, it can transiently disrupt language comprehension (because Wernicke\u2019s area and surrounding cortex are affected), whereas a nondominant focus might manifest with neglect of one side of space or confusion about spatial relationships. These phenomena often remain focal (the patient stays aware) unless the seizure spreads further.",
+    "label": "Left Inferiorparietal",
+    "videos": [
+      "https://www.youtube.com/watch?v=d2EbNua0vP8"
+    ],
+    "function": "The inferior parietal lobule (notably the angular gyrus, Brodmann area 39) participates in complex cognitive functions such as semantic processing (language comprehension, reading), number processing, spatial cognition, memory retrieval, and attention."
+  },
+  {
+    "name": "lh_inferiortemporal",
+    "gltfPath": "brain_model/lh_inferiortemporal.gltf",
+    "semiology": "Inferior temporal lobe seizures can present with a mix of sensory and experiential symptoms due to this region\u2019s role in visual object recognition and memory. Some patients report complex visual hallucinations \u2013 for example, seeing formed images or scenes that aren\u2019t real \u2013 which reflects spread to temporo-occipital association cortex. Others may have an auditory aura or d\u00e9j\u00e0 vu if the seizure engages adjacent temporal networks. Impaired awareness usually follows quickly, with the person staring and performing automatisms (like lip smacking, swallowing, or repetitive hand movements) as is common in temporal lobe seizures. Because the inferior temporal gyrus is near limbic structures, emotional auras (like sudden fear or joy) can occasionally precede these seizures as well.",
+    "label": "Left Inferiortemporal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The inferior temporal gyrus is part of the ventral visual stream and is critical for object recognition and visual perception (the \u201cwhat\u201d pathway), helping to identify complex shapes, faces, and other visual stimuli."
+  },
+  {
+    "name": "lh_insula",
+    "gltfPath": "brain_model/lh_insula.gltf",
+    "semiology": "Insular lobe seizures often begin with distinctive internal sensations. Patients frequently experience a sensation of throat tightness or laryngeal constriction and an unpleasant tingling or warmth that may spread through the body, while still fully conscious. These early insular symptoms are typically brief before the seizure activity spreads to surrounding regions. As a result, an insular seizure might soon resemble a temporal lobe seizure (with loss of awareness, epigastric sensation, and oral automatisms) or a frontal lobe seizure (with sudden hypermotor movements), depending on the propagation. Autonomic signs like nausea, flushing, or heart rate changes are also common in insular seizures due to the insula\u2019s role in visceral control.",
+    "label": "Left Insula",
+    "videos": [
+      "https://www.youtube.com/watch?v=WoagGALjyhA"
+    ],
+    "function": "The insular cortex integrates internal bodily sensations (interoception) with emotional and sensory experiences; it is involved in functions like taste, visceral sensation, pain perception, and the subjective emotional awareness of bodily states."
+  },
+  {
+    "name": "lh_isthmuscingulate",
+    "gltfPath": "brain_model/lh_isthmuscingulate.gltf",
+    "semiology": "The isthmus of the cingulate (posterior cingulate transition zone) is a deep midline region, and seizures here tend to have subtle onset. Often there is no clear aura or only a vague sensation at seizure start, making these seizures hard to recognize clinically. As the ictal activity spreads to connected networks, more overt signs emerge: patients might develop a behavioral arrest with unresponsiveness (suggesting spread to limbic/temporal regions) or bilateral tonic posturing (suggesting spread to medial frontal regions). Because the primary zone is semiologically \u201csilent,\u201d posterior cingulate and isthmus seizures are commonly misidentified as temporal or frontal lobe epilepsy until specialized monitoring pinpoints the origin.",
+    "label": "Left Isthmuscingulate",
+    "videos": [
+      "https://www.youtube.com/watch?v=Ds2O4WMJjGQ"
+    ],
+    "function": "The isthmus of the cingulate gyrus (retrosplenial cortex) is part of the limbic medial cortex involved in spatial navigation, landmark recognition, and contextual memory processing."
+  },
+  {
+    "name": "lh_lateraloccipital",
+    "gltfPath": "brain_model/lh_lateraloccipital.gltf",
+    "semiology": "Seizures arising from the lateral occipital lobe (visual association area) often produce visual illusions rather than simple flashes. Patients might suddenly see parts of the environment change size or shape \u2013 for example, objects in one visual field appear shrunken or enlarged (micropsia/macropsia). There can also be a brief loss of a section of vision or the appearance of formed images. The eyes may be pulled to one side (contraversive deviation) or exhibit rhythmic twitching (ictal nystagmus) as the seizure engages visual motion pathways. If the seizure remains confined to occipital cortex, consciousness stays intact, but further spread of the seizure (for example, into frontal motor areas) can add movements or loss of awareness to the clinical picture.",
+    "label": "Left Lateraloccipital",
+    "videos": [
+      "https://www.youtube.com/watch?v=ZzF9elkH23o"
+    ],
+    "function": "The lateral occipital cortex is a high-level visual association area crucial for object and shape recognition in the visual field."
+  },
+  {
+    "name": "lh_lateralorbitofrontal",
+    "gltfPath": "brain_model/lh_lateralorbitofrontal.gltf",
+    "semiology": "Orbitofrontal cortex seizures tend to produce prominent behavioral changes with minimal warning. They often occur during sleep and may start with an immediate loss of awareness (no distinct aura), followed by hypermotor automatisms \u2013 the patient might suddenly exhibit agitated movements, kicking or thrashing in bed. Sometimes there are complex behaviors like running or bizarre gesturing. Autonomic symptoms (such as changes in breathing, heart rate, or flushing) are common due to orbitofrontal connections with limbic areas. These seizures can also feature an olfactory aura (a brief phantom smell) or visual illusions, but such auras are usually fleeting if present. Orbitofrontal epilepsy is frequently misdiagnosed as a sleep disorder or psychiatric event because of the intense, often nocturnal, motor activity and lack of a clear aura.",
+    "label": "Left Lateralorbitofrontal",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The lateral orbitofrontal cortex is involved in evaluating negative outcomes (non-reward or punishment) and adjusting behavior; it contributes to inhibitory control and decision-making, especially in response to unpleasant stimuli."
+  },
+  {
+    "name": "lh_lingual",
+    "gltfPath": "brain_model/lh_lingual.gltf",
+    "semiology": "Seizures affecting the lingual gyrus (visual association cortex in the occipital lobe) can cause complex visual distortions. Patients may perceive objects as abnormally large or small (macropsia or micropsia) or experience visual scenes that are distorted and surreal. Flickering lights or colorful patterns can also occur, often confined to a portion of the visual field. Ictal nystagmus (repetitive jerking of the eyes) or forced deviation of gaze to one side may accompany these episodes if the seizure spreads to nearby ocular control regions. Awareness is usually preserved during the visual aura, but larger seizures can propagate to produce confusion or generalized convulsions.",
+    "label": "Left Lingual",
+    "videos": [
+      "https://www.youtube.com/watch?v=ZzF9elkH23o"
+    ],
+    "function": "The lingual gyrus, on the medial occipital lobe, is involved in visual processing, particularly the recognition of complex visual patterns such as words and faces."
+  },
+  {
+    "name": "lh_medialorbitofrontal",
+    "gltfPath": "brain_model/lh_medialorbitofrontal.gltf",
+    "semiology": "Orbitofrontal cortex seizures tend to produce prominent behavioral changes with minimal warning. They often occur during sleep and may start with an immediate loss of awareness (no distinct aura), followed by hypermotor automatisms \u2013 the patient might suddenly exhibit agitated movements, kicking or thrashing in bed. Sometimes there are complex behaviors like running or bizarre gesturing. Autonomic symptoms (such as changes in breathing, heart rate, or flushing) are common due to orbitofrontal connections with limbic areas. These seizures can also feature an olfactory aura (a brief phantom smell) or visual illusions, but such auras are usually fleeting if present. Orbitofrontal epilepsy is frequently misdiagnosed as a sleep disorder or psychiatric event because of the intense, often nocturnal, motor activity and lack of a clear aura.",
+    "label": "Left Medialorbitofrontal",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The medial orbitofrontal cortex (part of the ventromedial prefrontal cortex) is associated with representing and evaluating rewards and positive stimuli, contributing to reward-guided decision-making and emotional processing."
+  },
+  {
+    "name": "lh_middletemporal",
+    "gltfPath": "brain_model/lh_middletemporal.gltf",
+    "semiology": "Seizures arising from the middle temporal gyrus belong to lateral temporal lobe epilepsy and often involve auditory or language-related auras. Patients can experience an auditory aura such as hearing a buzzing, a ringing, or a fragment of music, which suggests involvement of auditory association cortex. If the seizure is in the dominant hemisphere, it may also transiently impair language comprehension, similar to Wernicke\u2019s area seizures, causing the patient to be confused by speech or unable to understand words during the ictus. These seizures typically progress to loss of awareness accompanied by automatisms (like lip smacking, swallowing, or repetitive hand movements) as is common in temporal lobe seizures. Contralateral limb posturing or dystonia can occur if the seizure spreads to subcortical or frontal regions, assisting in lateralization of the focus.",
+    "label": "Left Middletemporal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The middle temporal gyrus is involved in semantic memory and language processing, integrating auditory and visual information for understanding word meanings and narratives."
+  },
+  {
+    "name": "lh_paracentral",
+    "gltfPath": "brain_model/lh_paracentral.gltf",
+    "semiology": "The paracentral lobule spans the medial parts of the frontal and parietal lobes, including the supplementary motor area and the leg representation of the motor-sensory cortices. Seizures in this region characteristically produce bilateral or midline motor symptoms, especially involving the legs. Patients may experience sudden tonic stiffening of the lower limbs or assume an asymmetrical posture (one leg extended and the other flexed) for brief periods. These supplementary motor area seizures often begin and end abruptly (lasting 10\u201330 seconds) and have minimal confusion afterward. A loud vocalization (grunt or cry) or speech arrest at onset is common, and the eyes can deviate contralaterally. Because of their tendency to occur during sleep and involve bizarre postures, paracentral seizures are sometimes mistaken for night terrors or other parasomnias.",
+    "label": "Left Paracentral",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The paracentral lobule is the medial continuation of the precentral and postcentral gyri, containing the motor and sensory areas for the contralateral leg and foot; it is responsible for voluntary leg movements and somatosensory input from the lower extremity."
+  },
+  {
+    "name": "lh_parahippocampal",
+    "gltfPath": "brain_model/lh_parahippocampal.gltf",
+    "semiology": "Parahippocampal cortex seizures (part of the mesial temporal lobe) produce the classic aura symptoms associated with temporal lobe epilepsy. Patients often experience a rising epigastric sensation (a feeling of butterflies or nausea rising from the stomach) and intense d\u00e9j\u00e0 vu or jamais vu (a sense of familiarity or strangeness) at the seizure onset. An olfactory hallucination (like smelling something burnt or unpleasant out of nowhere) or a sudden wave of fear can also mark the beginning of these seizures. Within seconds, consciousness is impaired and the patient may display oral automatisms (chewing, lip smacking) and manual automatisms (fumbling or picking movements) while unresponsive. The eyes may stare and one arm may assume a dystonic (stiff) posture contralateral to the seizure focus. This constellation of an \"aura\" followed by behavioral arrest and automatisms is highly characteristic of seizures in the hippocampal/parahippocampal region.",
+    "label": "Left Parahippocampal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The parahippocampal gyrus (medial temporal lobe) is important for memory encoding and retrieval, and it contains the parahippocampal place area which specializes in recognizing environmental scenes and contextual visual information."
+  },
+  {
+    "name": "lh_parsopercularis",
+    "gltfPath": "brain_model/lh_parsopercularis.gltf",
+    "semiology": "The pars opercularis (part of the dominant inferior frontal gyrus, Broca\u2019s area) is crucial for speech production, so seizures here often cause sudden speech disturbance. A patient in the midst of such a seizure may appear awake but be unable to speak or produce anything more than a few sounds \u2013 an ictal speech arrest or expressive aphasia. In addition to speech impairment, these seizures can involve frontal motor signs: for example, tonic stiffening of one side of the face or arm and forced deviation of the eyes toward the opposite side. Consciousness is usually preserved, though the person cannot communicate. In non-dominant inferior frontal seizures (right side in a right-handed person), speech is not lost; instead, subtle facial or behavioral changes might be noted without aphasia.",
+    "label": "Left Parsopercularis",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "Pars opercularis of the inferior frontal gyrus (Brodmann area 44) is part of Broca\u2019s area in the dominant hemisphere, contributing to speech production and phonological processing in language."
+  },
+  {
+    "name": "lh_parsorbitalis",
+    "gltfPath": "brain_model/lh_parsorbitalis.gltf",
+    "semiology": "The pars orbitalis is the anterior-most part of the inferior frontal gyrus, and seizures here can have features overlapping with both orbitofrontal and Broca-area epilepsies. Patients may experience an initial loss of awareness or responsiveness and may stop speaking abruptly if the dominant hemisphere is involved. Automatisms like lip-smacking or fumbling with the hands can occur soon after onset, reflecting spread to adjacent frontal networks. Olfactory hallucinations (a sudden smell sensation) or autonomic signs (pupil dilation, changes in blood pressure) might also accompany these seizures, due to connections with limbic and autonomic centers. As the discharge often remains in frontal regions, these seizures are usually brief and can cluster, especially during sleep.",
+    "label": "Left Parsorbitalis",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "Pars orbitalis (Brodmann area 47) is the most anterior segment of the inferior frontal gyrus; it is involved in the brain\u2019s language network (e.g. complex syntax and semantics) and interfaces with orbitofrontal regions related to social-emotional processing."
+  },
+  {
+    "name": "lh_parstriangularis",
+    "gltfPath": "brain_model/lh_parstriangularis.gltf",
+    "semiology": "The pars opercularis (part of the dominant inferior frontal gyrus, Broca\u2019s area) is crucial for speech production, so seizures here often cause sudden speech disturbance. A patient in the midst of such a seizure may appear awake but be unable to speak or produce anything more than a few sounds \u2013 an ictal speech arrest or expressive aphasia. In addition to speech impairment, these seizures can involve frontal motor signs: for example, tonic stiffening of one side of the face or arm and forced deviation of the eyes toward the opposite side. Consciousness is usually preserved, though the person cannot communicate. In non-dominant inferior frontal seizures (right side in a right-handed person), speech is not lost; instead, subtle facial or behavioral changes might be noted without aphasia.",
+    "label": "Left Parstriangularis",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "Pars triangularis of the inferior frontal gyrus (Brodmann area 45) is part of Broca\u2019s area and is involved in semantic processing and other language functions (such as verbal fluency and syntax) in the dominant hemisphere."
+  },
+  {
+    "name": "lh_pericalcarine",
+    "gltfPath": "brain_model/lh_pericalcarine.gltf",
+    "semiology": "Seizures in the primary visual cortex (occipital lobe, including the cuneus) classically produce simple visual hallucinations in the opposite half of the visual field. Patients often see flashes of light, bright colors, or small flickering shapes that appear suddenly and last for seconds up to a couple of minutes. These elementary visual auras may remain isolated if the seizure is confined to the occipital lobe, but frequently the seizure spreads: about half progress to involve temporal lobe symptoms (such as loss of awareness and oral automatisms) or frontal motor symptoms. Occipital seizures commonly trigger a headache afterward, and they can be mistaken for migraine aura if not recognized.",
+    "label": "Left Pericalcarine",
+    "videos": [
+      "https://www.youtube.com/watch?v=ZzF9elkH23o"
+    ],
+    "function": "The pericalcarine cortex surrounds the calcarine fissure in the occipital lobe and corresponds to the primary visual cortex (V1, Brodmann area 17), which is the first cortical region to receive visual input and is responsible for basic visual processing of features like orientation and motion."
+  },
+  {
+    "name": "lh_postcentral",
+    "gltfPath": "brain_model/lh_postcentral.gltf",
+    "semiology": "Seizures of the postcentral gyrus (primary somatosensory cortex) produce focal positive sensory symptoms in the opposite side of the body. Patients experience sudden paresthesias \u2013 tingling, numbness, or a \"pins-and-needles\" feeling \u2013 in a specific region, such as the hand, face, or foot contralateral to the seizure focus. The tingling can spread systematically to adjacent body parts as the seizure propagates along the sensory homunculus (a Jacksonian sensory march). These purely sensory seizures do not typically impair consciousness. They may, however, trigger brief involuntary movements if the discharge spreads to the motor cortex, and occasionally a transient numbness or weakness can persist in the affected limb for a few minutes after the seizure (a sensory version of Todd\u2019s paralysis).",
+    "label": "Left Postcentral",
+    "videos": [
+      "https://www.youtube.com/watch?v=d2EbNua0vP8"
+    ],
+    "function": "The postcentral gyrus of the parietal lobe contains the primary somatosensory cortex (Brodmann areas 3, 1, 2), which perceives touch, pressure, vibration, pain, and proprioceptive information from the contralateral side of the body."
+  },
+  {
+    "name": "lh_posteriorcingulate",
+    "gltfPath": "brain_model/lh_posteriorcingulate.gltf",
+    "semiology": "Seizures in the posterior cingulate cortex are typically deceptive, as the actual onset produces few outward symptoms. This deep midline area can generate seizures that initially seem \u201csilent\u201d or only cause nonspecific feelings. By the time observable signs appear, the seizure has usually propagated: patients might then show behaviors suggestive of temporal lobe involvement (staring, unresponsiveness, automatisms) or sudden tonic limb posturing suggestive of frontal spread. Given this variability, posterior cingulate epilepsy often mimics other localization-related epilepsies, and precise diagnosis usually requires intracranial EEG evaluation.",
+    "label": "Left Posteriorcingulate",
+    "videos": [
+      "https://www.youtube.com/watch?v=Ds2O4WMJjGQ"
+    ],
+    "function": "The posterior cingulate cortex is a key hub of the default mode network and is highly metabolically active; it is involved in internally-directed cognition, such as autobiographical memory retrieval and self-reflection."
+  },
+  {
+    "name": "lh_precentral",
+    "gltfPath": "brain_model/lh_precentral.gltf",
+    "semiology": "Seizures originating in the precentral gyrus (primary motor cortex) cause characteristic contralateral motor signs. Depending on the area of the motor strip involved, the patient may have clonic jerking or tonic stiffening of the face, arm, or leg on the opposite side of the body. Often these movements start in one area (for example, hand twitching) and then \"march\" to involve neighboring muscle groups as the ictal activity spreads across the motor homunculus (Jacksonian march). The person usually remains aware during a limited motor seizure unless it generalizes. After the seizure, there may be a brief period of weakness (Todd\u2019s paralysis) in the affected limb corresponding to the exhausted motor cortex.",
+    "label": "Left Precentral",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The precentral gyrus of the frontal lobe contains the primary motor cortex (Brodmann area 4), which generates the neural commands for voluntary movements of the opposite side of the body, including fine motor control as represented in the motor homunculus."
+  },
+  {
+    "name": "lh_precuneus",
+    "gltfPath": "brain_model/lh_precuneus.gltf",
+    "semiology": "Precuneus seizures are notable for producing unusual sensations reflecting this region\u2019s role in integration of sensory, visual, and self-referential information. Patients can experience vestibular or movement illusions \u2013 a feeling of flying, falling, or the body tilting \u2013 as well as visual hallucinations like scenes or bright lights appearing out of nowhere. Some precuneus seizures give rise to out-of-body experiences or a sense of detachment, since the precuneus is involved in body awareness. These seizures might also mimic temporal lobe seizures in that they can include memory flashbacks or d\u00e9j\u00e0 vu if they propagate to limbic circuits. Depending on spread, motor signs (like head-turning or limb posturing) may appear later in the seizure, but early on the person often remains aware and able to recall the bizarre sensations.",
+    "label": "Left Precuneus",
+    "videos": [
+      "https://www.youtube.com/watch?v=d2EbNua0vP8"
+    ],
+    "function": "The precuneus (medial superior parietal lobule) is involved in self-referential thought, visuo-spatial imagery, and episodic memory retrieval, and it is noted as a central hub in the default mode network."
+  },
+  {
+    "name": "lh_rostralanteriorcingulate",
+    "gltfPath": "brain_model/lh_rostralanteriorcingulate.gltf",
+    "semiology": "Seizures arising from the anterior cingulate gyrus (frontal part of the cingulate cortex) often produce dramatic motor and emotional manifestations. They typically begin with a sudden behavioral arrest and stare, followed by complex motor automatisms (such as rocking, pelvic thrusting, or even taking steps) along with vocalizations like grunts or shouts. Intense feelings of fear or other emotions can occur, and autonomic changes (flushing, changes in heart rate) are common; even urinary incontinence has been reported in some cases. The overall picture overlaps with mesial frontal lobe seizures (supplementary motor area), but prominent fear and vocal outbursts are particularly characteristic of anterior cingulate seizures.",
+    "label": "Left Rostralanteriorcingulate",
+    "videos": [
+      "https://www.youtube.com/watch?v=Ds2O4WMJjGQ"
+    ],
+    "function": "The rostral (perigenual) anterior cingulate cortex is considered part of the brain\u2019s affective division, involved in emotion processing, motivation, and autonomic regulation (through its connections with the amygdala and brainstem)."
+  },
+  {
+    "name": "lh_rostralmiddlefrontal",
+    "gltfPath": "brain_model/lh_rostralmiddlefrontal.gltf",
+    "semiology": "Seizures in the dorsolateral frontal cortex (middle frontal gyrus) often involve forced motor postures and gaze deviation. Patients may develop an unnatural tonic posturing of the contralateral arm or leg and the eyes and head may turn to the opposite side of the lesion during the seizure. If the focus is in the dominant hemisphere and spreads to Broca\u2019s area, the patient can experience ictal speech arrest \u2013 being awake but suddenly unable to speak. Some individuals report experiencing a \"forced thought\" at onset (an involuntary, sudden thought or urge), reflecting higher-order frontal cortical involvement. These seizures are usually brief and can rapidly generalize if they propagate to motor cortex, leading to secondary tonic-clonic activity.",
+    "label": "Left Rostralmiddlefrontal",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The rostral middle frontal gyrus corresponds to the anterior dorsolateral prefrontal cortex, which is critical for executive functions such as working memory, planning, cognitive flexibility, and abstract reasoning."
+  },
+  {
+    "name": "lh_superiorfrontal",
+    "gltfPath": "brain_model/lh_superiorfrontal.gltf",
+    "semiology": "Seizures in the dorsolateral frontal cortex (middle frontal gyrus) often involve forced motor postures and gaze deviation. Patients may develop an unnatural tonic posturing of the contralateral arm or leg and the eyes and head may turn to the opposite side of the lesion during the seizure. If the focus is in the dominant hemisphere and spreads to Broca\u2019s area, the patient can experience ictal speech arrest \u2013 being awake but suddenly unable to speak. Some individuals report experiencing a \"forced thought\" at onset (an involuntary, sudden thought or urge), reflecting higher-order frontal cortical involvement. These seizures are usually brief and can rapidly generalize if they propagate to motor cortex, leading to secondary tonic-clonic activity.",
+    "label": "Left Superiorfrontal",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The superior frontal gyrus, spanning dorsolateral and medial prefrontal cortex, contributes to higher cognitive functions and self-awareness; for example, it has been implicated in working memory and the introspective evaluation of one\u2019s own actions."
+  },
+  {
+    "name": "lh_superiorparietal",
+    "gltfPath": "brain_model/lh_superiorparietal.gltf",
+    "semiology": "Seizures involving the superior parietal lobule primarily cause contralateral somatosensory disturbances and misperceptions of the body. Commonly, patients feel tingling, numbness, or an \"electric\" sensation spreading over one side of the body (in a pattern that may march from one area to the next). In addition, higher-order illusions can occur: an arm or leg might feel as though it\u2019s in a wrong position or that its size has changed (a limb may feel unnaturally large or small). Awareness is typically preserved through these sensory seizures. However, further spread of the seizure (for example, into frontal motor areas) can add movements or loss of awareness to the clinical picture.",
+    "label": "Left Superiorparietal",
+    "videos": [
+      "https://www.youtube.com/watch?v=d2EbNua0vP8"
+    ],
+    "function": "The superior parietal lobule (Brodmann areas 5 and 7) is a sensory association area that integrates tactile, visual, and proprioceptive inputs to guide spatial orientation, attention, and coordinated movements (e.g. reaching and stereognosis)."
+  },
+  {
+    "name": "lh_superiortemporal",
+    "gltfPath": "brain_model/lh_superiortemporal.gltf",
+    "semiology": "Seizures of the superior temporal gyrus often affect auditory processing and language. An early symptom can be an auditory hallucination \u2013 hearing a buzzing, a tone, or even music \u2013 as the primary auditory cortex and association areas in this region are activated. In a dominant superior temporal seizure (left side for most people), the patient may experience an ictal Wernicke\u2019s aphasia: they suddenly cannot understand what is being said and may speak gibberish or not at all during the event. As the seizure progresses, awareness is lost and automotor behaviors (mouthing, lip-smacking, fidgeting with hands) appear, characteristic of temporal lobe seizures. These seizures can also secondarily generalize if the discharges spread beyond the temporal lobe.",
+    "label": "Left Superiortemporal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The superior temporal gyrus is essential for auditory perception and language comprehension: it houses the primary auditory cortex and, in the dominant hemisphere, Wernicke\u2019s area for understanding speech."
+  },
+  {
+    "name": "lh_supramarginal",
+    "gltfPath": "brain_model/lh_supramarginal.gltf",
+    "semiology": "The supramarginal gyrus (part of the inferior parietal lobe) integrates tactile, visual, and vestibular information, so seizures here can cause striking bodily illusions. Patients might suddenly feel a limb move or change position when it hasn\u2019t, or sense that parts of their body have altered size (for example, an arm feels enormously large or shrunken). Some also experience transient vertigo or a sensation of being tilted, due to involvement of vestibular processing areas. These parietal seizures are often brief and do not impair consciousness unless they propagate to other regions; in case of spread, additional symptoms (like frontal lobe motor signs or temporal lobe confusion) may overlay the primary somatosensory aura.",
+    "label": "Left Supramarginal",
+    "videos": [
+      "https://www.youtube.com/watch?v=d2EbNua0vP8"
+    ],
+    "function": "The supramarginal gyrus (Brodmann area 40) is part of the inferior parietal lobule and contributes to multimodal sensory integration and language. It helps interpret tactile information and the spatial position of limbs (as a somatosensory association area) and also supports phonological processing in language perception."
+  },
+  {
+    "name": "lh_temporalpole",
+    "gltfPath": "brain_model/lh_temporalpole.gltf",
+    "semiology": "The temporal pole (anterior-most temporal lobe) is part of the limbic network, and seizures here often begin with intense psychic or emotional auras. Patients frequently report a sudden wave of fear, anxiety, or even euphoria at the start of the seizure. An \"uncinate\" (smell) aura is also classic for temporal pole seizures \u2013 a brief phantom odor (often described as foul or burning) that signals involvement of the uncus/amygdala region. Soon after these initial sensations, the seizure typically evolves into a focal impaired awareness seizure: the patient becomes unresponsive, may stare blankly, and engages in automatisms like lip smacking, chewing, or repetitive hand movements. Autonomic features (such as flushing, heart racing) and emotional behaviors (like crying or panic) can accompany temporal pole seizures due to activation of amygdalar networks.",
+    "label": "Left Temporalpole",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The temporal pole (Brodmann area 38) is an anterior temporal lobe region involved in high-level integration of memory, language, and emotion. The left temporal pole has been associated with semantic memory (e.g. names and word meanings), whereas the right temporal pole is more involved in socio-emotional memory and face familiarity."
+  },
+  {
+    "name": "lh_transversetemporal",
+    "gltfPath": "brain_model/lh_transversetemporal.gltf",
+    "semiology": "The transverse temporal gyrus (Heschl\u2019s gyrus) contains the primary auditory cortex, so seizures here typically produce simple auditory auras. Patients may suddenly hear a buzzing, ringing, or humming sound, sometimes described like \"static\" or a tone, often localized to one ear or side. Unlike more complex auditory hallucinations, these sounds are unformed and reflect the involvement of primary auditory processing. The auditory aura usually gives way to impairment of awareness as the seizure spreads to the temporal neocortex, with the person becoming unresponsive and exhibiting oral and manual automatisms (e.g., lip smacking, chewing, or rubbing fingers). If the seizure propagates further (for example, to motor areas), it may induce contralateral posturing or even a secondary generalized convulsion, although this is less common in pure temporal lobe epilepsy.",
+    "label": "Left Transversetemporal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The transverse temporal gyri (Heschl\u2019s gyri) on the superior surface of the temporal lobe contain the primary auditory cortex (Brodmann areas 41/42), which is the first cortical area for processing sound information (tones, pitch, and other basic auditory features) from the cochlea."
+  },
+  {
+    "name": "rh_bankssts",
+    "gltfPath": "brain_model/rh_bankssts.gltf",
+    "semiology": "As part of the superior temporal sulcus region of the lateral temporal lobe, seizures here often manifest with auditory symptoms and language disturbances. Patients might report hearing simple sounds (buzzing or ringing) or distortions in sound as an initial aura. If the dominant hemisphere is involved, the seizure can interfere with language comprehension, leading to an ictal receptive aphasia (inability to understand speech). These lateral temporal seizures typically progress quickly to impaired awareness with automatisms (such as lip-smacking or fumbling), and may induce contralateral limb posturing as the seizure spreads.",
+    "label": "Right Banks Of The Superior Temporal Sulcus",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The banks of the superior temporal sulcus (STS) are involved in high-level auditory and social perceptual processing, responding to voices, biological motion, and aspects of language."
+  },
+  {
+    "name": "rh_caudalanteriorcingulate",
+    "gltfPath": "brain_model/rh_caudalanteriorcingulate.gltf",
+    "semiology": "Seizures arising from the anterior cingulate gyrus (frontal part of the cingulate cortex) often produce dramatic motor and emotional manifestations. They typically begin with a sudden behavioral arrest and stare, followed by complex motor automatisms (such as rocking, pelvic thrusting, or even taking steps) along with vocalizations like grunts or shouts. Intense feelings of fear or other emotions can occur, and autonomic changes (flushing, changes in heart rate) are common; even urinary incontinence has been reported in some cases. The overall picture overlaps with mesial frontal lobe seizures (supplementary motor area), but prominent fear and vocal outbursts are particularly characteristic of anterior cingulate seizures.",
+    "label": "Right Caudalanteriorcingulate",
+    "videos": [
+      "https://www.youtube.com/watch?v=Ds2O4WMJjGQ"
+    ],
+    "function": "The caudal (dorsal) anterior cingulate cortex is implicated in cognitive control and performance monitoring, where conflict detection and error-related signals are commonly observed during challenging tasks."
+  },
+  {
+    "name": "rh_caudalmiddlefrontal",
+    "gltfPath": "brain_model/rh_caudalmiddlefrontal.gltf",
+    "semiology": "Seizures in the dorsolateral frontal cortex (middle frontal gyrus) often involve forced motor postures and gaze deviation. Patients may develop an unnatural tonic posturing of the contralateral arm or leg and the eyes and head may turn to the opposite side of the lesion during the seizure. If the focus is in the dominant hemisphere and spreads to Broca\u2019s area, the patient can experience ictal speech arrest \u2013 being awake but suddenly unable to speak. Some individuals report experiencing a \"forced thought\" at onset (an involuntary, sudden thought or urge), reflecting higher-order frontal cortical involvement. These seizures are usually brief and can rapidly generalize if they propagate to motor cortex, leading to secondary tonic-clonic activity.",
+    "label": "Right Caudalmiddlefrontal",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The caudal middle frontal gyrus includes lateral premotor cortex and the frontal eye fields (around Brodmann area 8), involved in planning and coordinating movements (including voluntary eye movements)."
+  },
+  {
+    "name": "rh_cuneus",
+    "gltfPath": "brain_model/rh_cuneus.gltf",
+    "semiology": "Seizures in the primary visual cortex (occipital lobe, including the cuneus) classically produce simple visual hallucinations in the opposite half of the visual field. Patients often see flashes of light, bright colors, or small flickering shapes that appear suddenly and last for seconds up to a couple of minutes. These elementary visual auras may remain isolated if the seizure is confined to the occipital lobe, but frequently the seizure spreads: about half progress to involve temporal lobe symptoms (such as loss of awareness and oral automatisms) or frontal motor symptoms. Occipital seizures commonly trigger a headache afterward, and they can be mistaken for migraine aura if not recognized.",
+    "label": "Right Cuneus",
+    "videos": [
+      "https://www.youtube.com/watch?v=ZzF9elkH23o"
+    ],
+    "function": "The cuneus is a wedge-shaped region of the medial occipital lobe that contributes to basic visual processing and visuospatial attention."
+  },
+  {
+    "name": "rh_entorhinal",
+    "gltfPath": "brain_model/rh_entorhinal.gltf",
+    "semiology": "The entorhinal cortex, as part of the medial temporal lobe, gives rise to seizures with prominent experiential auras. A common initial symptom is a vivid d\u00e9j\u00e0 vu \u2013 an overwhelming feeling that the present moment has been experienced before \u2013 or its opposite, jamais vu. Patients may also perceive a foul odor or odd taste (uncinate aura) and a rising sensation in the stomach at the seizure onset. Early in the seizure, fear or panic may strike inexplicably. As the discharge spreads to the hippocampus and amygdala, awareness is lost and the patient develops the typical oral and hand automatisms of a temporal lobe seizure (chewing, swallowing, picking at clothes). Autonomic signs are common: the patient might go pale, pupils dilate, or heart rate changes during the seizure, reflecting involvement of the limbic autonomic networks.",
+    "label": "Right Entorhinal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The entorhinal cortex is the main cortical interface with the hippocampus, playing a crucial role in the formation of declarative memories and spatial navigation."
+  },
+  {
+    "name": "rh_frontalpole",
+    "gltfPath": "brain_model/rh_frontalpole.gltf",
+    "semiology": "Frontopolar (frontal pole) seizures, arising from the most anterior part of the frontal lobes, often begin with a quiet arrest of activity. Patients may simply pause and become unresponsive or glassy-eyed, without an initial aura. Because the frontal pole is far from primary motor areas, overt movements may be minimal at onset. As the seizure evolves, it can recruit adjacent frontal regions, leading to some automatic behaviors (such as wandering, fidgeting) or late-onset motor features like head or eye turning to one side. Occasionally, patients describe an odd forced thought or sensation at the seizure\u2019s start, but memory for the event is often patchy. Frontopolar seizures are typically brief and may be mistaken for absence seizures or fainting due to their subtle appearance.",
+    "label": "Right Frontalpole",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The frontal pole (Brodmann area 10) is associated with the highest-order executive functions (e.g. planning, multitasking) and abstract thought, enabling the management of multiple goals or tasks (often termed \u201ccognitive branching\u201d)."
+  },
+  {
+    "name": "rh_fusiform",
+    "gltfPath": "brain_model/rh_fusiform.gltf",
+    "semiology": "The fusiform gyrus lies at the temporo-occipital junction and is involved in complex visual processing (recognition of faces and objects). Seizures in this region can therefore produce elaborate visual hallucinations: patients may see faces or scenes that are distorted or briefly unrecognizable. Some have reported perceiving people's faces as grotesquely altered during a seizure, reflecting the fusiform gyrus\u2019s role in face perception. Because the fusiform gyrus is part of the temporal lobe, seizures here often also include typical temporal lobe features (impaired awareness and automatisms) once they spread beyond the visual aura.",
+    "label": "Right Fusiform",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The fusiform gyrus is a ventral temporal-occipital region involved in high-level visual processing and recognition, including faces, bodies, colors, and written words."
+  },
+  {
+    "name": "rh_inferiorparietal",
+    "gltfPath": "brain_model/rh_inferiorparietal.gltf",
+    "semiology": "Seizures in the inferior parietal lobule (e.g., the angular gyrus region) often produce highly subjective sensory disturbances. Patients may experience complex distortions of their body image or spatial perception \u2013 for instance, a sensation of floating, feeling that a limb is missing or greatly enlarged, or other out-of-body-like illusions. A vertigo or dizziness aura is also common when the temporoparietal junction is involved. If the seizure is in the dominant (usually left) hemisphere, it can transiently disrupt language comprehension (because Wernicke\u2019s area and surrounding cortex are affected), whereas a nondominant focus might manifest with neglect of one side of space or confusion about spatial relationships. These phenomena often remain focal (the patient stays aware) unless the seizure spreads further.",
+    "label": "Right Inferiorparietal",
+    "videos": [
+      "https://www.youtube.com/watch?v=d2EbNua0vP8"
+    ],
+    "function": "The inferior parietal lobule (notably the angular gyrus, Brodmann area 39) participates in complex cognitive functions such as semantic processing (language comprehension, reading), number processing, spatial cognition, memory retrieval, and attention."
+  },
+  {
+    "name": "rh_inferiortemporal",
+    "gltfPath": "brain_model/rh_inferiortemporal.gltf",
+    "semiology": "Inferior temporal lobe seizures can present with a mix of sensory and experiential symptoms due to this region\u2019s role in visual object recognition and memory. Some patients report complex visual hallucinations \u2013 for example, seeing formed images or scenes that aren\u2019t real \u2013 which reflects spread to temporo-occipital association cortex. Others may have an auditory aura or d\u00e9j\u00e0 vu if the seizure engages adjacent temporal networks. Impaired awareness usually follows quickly, with the person staring and performing automatisms (like lip smacking, swallowing, or repetitive hand movements) as is common in temporal lobe seizures. Because the inferior temporal gyrus is near limbic structures, emotional auras (like sudden fear or joy) can occasionally precede these seizures as well.",
+    "label": "Right Inferiortemporal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The inferior temporal gyrus is part of the ventral visual stream and is critical for object recognition and visual perception (the \u201cwhat\u201d pathway), helping to identify complex shapes, faces, and other visual stimuli."
+  },
+  {
+    "name": "rh_insula",
+    "gltfPath": "brain_model/rh_insula.gltf",
+    "semiology": "Insular lobe seizures often begin with distinctive internal sensations. Patients frequently experience a sensation of throat tightness or laryngeal constriction and an unpleasant tingling or warmth that may spread through the body, while still fully conscious. These early insular symptoms are typically brief before the seizure activity spreads to surrounding regions. As a result, an insular seizure might soon resemble a temporal lobe seizure (with loss of awareness, epigastric sensation, and oral automatisms) or a frontal lobe seizure (with sudden hypermotor movements), depending on the propagation. Autonomic signs like nausea, flushing, or heart rate changes are also common in insular seizures due to the insula\u2019s role in visceral control.",
+    "label": "Right Insula",
+    "videos": [
+      "https://www.youtube.com/watch?v=WoagGALjyhA"
+    ],
+    "function": "The insular cortex integrates internal bodily sensations (interoception) with emotional and sensory experiences; it is involved in functions like taste, visceral sensation, pain perception, and the subjective emotional awareness of bodily states."
+  },
+  {
+    "name": "rh_isthmuscingulate",
+    "gltfPath": "brain_model/rh_isthmuscingulate.gltf",
+    "semiology": "The isthmus of the cingulate (posterior cingulate transition zone) is a deep midline region, and seizures here tend to have subtle onset. Often there is no clear aura or only a vague sensation at seizure start, making these seizures hard to recognize clinically. As the ictal activity spreads to connected networks, more overt signs emerge: patients might develop a behavioral arrest with unresponsiveness (suggesting spread to limbic/temporal regions) or bilateral tonic posturing (suggesting spread to medial frontal regions). Because the primary zone is semiologically \u201csilent,\u201d posterior cingulate and isthmus seizures are commonly misidentified as temporal or frontal lobe epilepsy until specialized monitoring pinpoints the origin.",
+    "label": "Right Isthmuscingulate",
+    "videos": [
+      "https://www.youtube.com/watch?v=Ds2O4WMJjGQ"
+    ],
+    "function": "The isthmus of the cingulate gyrus (retrosplenial cortex) is part of the limbic medial cortex involved in spatial navigation, landmark recognition, and contextual memory processing."
+  },
+  {
+    "name": "rh_lateraloccipital",
+    "gltfPath": "brain_model/rh_lateraloccipital.gltf",
+    "semiology": "Seizures arising from the lateral occipital lobe (visual association area) often produce visual illusions rather than simple flashes. Patients might suddenly see parts of the environment change size or shape \u2013 for example, objects in one visual field appear shrunken or enlarged (micropsia/macropsia). There can also be a brief loss of a section of vision or the appearance of formed images. The eyes may be pulled to one side (contraversive deviation) or exhibit rhythmic twitching (ictal nystagmus) as the seizure engages visual motion pathways. If the seizure remains confined to occipital cortex, consciousness stays intact, but further spread of the seizure (for example, into frontal motor areas) can add movements or loss of awareness to the clinical picture.",
+    "label": "Right Lateraloccipital",
+    "videos": [
+      "https://www.youtube.com/watch?v=ZzF9elkH23o"
+    ],
+    "function": "The lateral occipital cortex is a high-level visual association area crucial for object and shape recognition in the visual field."
+  },
+  {
+    "name": "rh_lateralorbitofrontal",
+    "gltfPath": "brain_model/rh_lateralorbitofrontal.gltf",
+    "semiology": "Orbitofrontal cortex seizures tend to produce prominent behavioral changes with minimal warning. They often occur during sleep and may start with an immediate loss of awareness (no distinct aura), followed by hypermotor automatisms \u2013 the patient might suddenly exhibit agitated movements, kicking or thrashing in bed. Sometimes there are complex behaviors like running or bizarre gesturing. Autonomic symptoms (such as changes in breathing, heart rate, or flushing) are common due to orbitofrontal connections with limbic areas. These seizures can also feature an olfactory aura (a brief phantom smell) or visual illusions, but such auras are usually fleeting if present. Orbitofrontal epilepsy is frequently misdiagnosed as a sleep disorder or psychiatric event because of the intense, often nocturnal, motor activity and lack of a clear aura.",
+    "label": "Right Lateralorbitofrontal",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The lateral orbitofrontal cortex is involved in evaluating negative outcomes (non-reward or punishment) and adjusting behavior; it contributes to inhibitory control and decision-making, especially in response to unpleasant stimuli."
+  },
+  {
+    "name": "rh_lingual",
+    "gltfPath": "brain_model/rh_lingual.gltf",
+    "semiology": "Seizures affecting the lingual gyrus (visual association cortex in the occipital lobe) can cause complex visual distortions. Patients may perceive objects as abnormally large or small (macropsia or micropsia) or experience visual scenes that are distorted and surreal. Flickering lights or colorful patterns can also occur, often confined to a portion of the visual field. Ictal nystagmus (repetitive jerking of the eyes) or forced deviation of gaze to one side may accompany these episodes if the seizure spreads to nearby ocular control regions. Awareness is usually preserved during the visual aura, but larger seizures can propagate to produce confusion or generalized convulsions.",
+    "label": "Right Lingual",
+    "videos": [
+      "https://www.youtube.com/watch?v=ZzF9elkH23o"
+    ],
+    "function": "The lingual gyrus, on the medial occipital lobe, is involved in visual processing, particularly the recognition of complex visual patterns such as words and faces."
+  },
+  {
+    "name": "rh_medialorbitofrontal",
+    "gltfPath": "brain_model/rh_medialorbitofrontal.gltf",
+    "semiology": "Orbitofrontal cortex seizures tend to produce prominent behavioral changes with minimal warning. They often occur during sleep and may start with an immediate loss of awareness (no distinct aura), followed by hypermotor automatisms \u2013 the patient might suddenly exhibit agitated movements, kicking or thrashing in bed. Sometimes there are complex behaviors like running or bizarre gesturing. Autonomic symptoms (such as changes in breathing, heart rate, or flushing) are common due to orbitofrontal connections with limbic areas. These seizures can also feature an olfactory aura (a brief phantom smell) or visual illusions, but such auras are usually fleeting if present. Orbitofrontal epilepsy is frequently misdiagnosed as a sleep disorder or psychiatric event because of the intense, often nocturnal, motor activity and lack of a clear aura.",
+    "label": "Right Medialorbitofrontal",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The medial orbitofrontal cortex (part of the ventromedial prefrontal cortex) is associated with representing and evaluating rewards and positive stimuli, contributing to reward-guided decision-making and emotional processing."
+  },
+  {
+    "name": "rh_middletemporal",
+    "gltfPath": "brain_model/rh_middletemporal.gltf",
+    "semiology": "Seizures arising from the middle temporal gyrus belong to lateral temporal lobe epilepsy and often involve auditory or language-related auras. Patients can experience an auditory aura such as hearing a buzzing, a ringing, or a fragment of music, which suggests involvement of auditory association cortex. If the seizure is in the dominant hemisphere, it may also transiently impair language comprehension, similar to Wernicke\u2019s area seizures, causing the patient to be confused by speech or unable to understand words during the ictus. These seizures typically progress to loss of awareness accompanied by automatisms (like lip smacking, swallowing, or repetitive hand movements) as is common in temporal lobe seizures. Contralateral limb posturing or dystonia can occur if the seizure spreads to subcortical or frontal regions, assisting in lateralization of the focus.",
+    "label": "Right Middletemporal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The middle temporal gyrus is involved in semantic memory and language processing, integrating auditory and visual information for understanding word meanings and narratives."
+  },
+  {
+    "name": "rh_paracentral",
+    "gltfPath": "brain_model/rh_paracentral.gltf",
+    "semiology": "The paracentral lobule spans the medial parts of the frontal and parietal lobes, including the supplementary motor area and the leg representation of the motor-sensory cortices. Seizures in this region characteristically produce bilateral or midline motor symptoms, especially involving the legs. Patients may experience sudden tonic stiffening of the lower limbs or assume an asymmetrical posture (one leg extended and the other flexed) for brief periods. These supplementary motor area seizures often begin and end abruptly (lasting 10\u201330 seconds) and have minimal confusion afterward. A loud vocalization (grunt or cry) or speech arrest at onset is common, and the eyes can deviate contralaterally. Because of their tendency to occur during sleep and involve bizarre postures, paracentral seizures are sometimes mistaken for night terrors or other parasomnias.",
+    "label": "Right Paracentral",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The paracentral lobule is the medial continuation of the precentral and postcentral gyri, containing the motor and sensory areas for the contralateral leg and foot; it is responsible for voluntary leg movements and somatosensory input from the lower extremity."
+  },
+  {
+    "name": "rh_parahippocampal",
+    "gltfPath": "brain_model/rh_parahippocampal.gltf",
+    "semiology": "Parahippocampal cortex seizures (part of the mesial temporal lobe) produce the classic aura symptoms associated with temporal lobe epilepsy. Patients often experience a rising epigastric sensation (a feeling of butterflies or nausea rising from the stomach) and intense d\u00e9j\u00e0 vu or jamais vu (a sense of familiarity or strangeness) at the seizure onset. An olfactory hallucination (like smelling something burnt or unpleasant out of nowhere) or a sudden wave of fear can also mark the beginning of these seizures. Within seconds, consciousness is impaired and the patient may display oral automatisms (chewing, lip smacking) and manual automatisms (fumbling or picking movements) while unresponsive. The eyes may stare and one arm may assume a dystonic (stiff) posture contralateral to the seizure focus. This constellation of an \"aura\" followed by behavioral arrest and automatisms is highly characteristic of seizures in the hippocampal/parahippocampal region.",
+    "label": "Right Parahippocampal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The parahippocampal gyrus (medial temporal lobe) is important for memory encoding and retrieval, and it contains the parahippocampal place area which specializes in recognizing environmental scenes and contextual visual information."
+  },
+  {
+    "name": "rh_parsopercularis",
+    "gltfPath": "brain_model/rh_parsopercularis.gltf",
+    "semiology": "The pars opercularis (part of the dominant inferior frontal gyrus, Broca\u2019s area) is crucial for speech production, so seizures here often cause sudden speech disturbance. A patient in the midst of such a seizure may appear awake but be unable to speak or produce anything more than a few sounds \u2013 an ictal speech arrest or expressive aphasia. In addition to speech impairment, these seizures can involve frontal motor signs: for example, tonic stiffening of one side of the face or arm and forced deviation of the eyes toward the opposite side. Consciousness is usually preserved, though the person cannot communicate. In non-dominant inferior frontal seizures (right side in a right-handed person), speech is not lost; instead, subtle facial or behavioral changes might be noted without aphasia.",
+    "label": "Right Parsopercularis",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "Pars opercularis of the inferior frontal gyrus (Brodmann area 44) is part of Broca\u2019s area in the dominant hemisphere, contributing to speech production and phonological processing in language."
+  },
+  {
+    "name": "rh_parsorbitalis",
+    "gltfPath": "brain_model/rh_parsorbitalis.gltf",
+    "semiology": "The pars orbitalis is the anterior-most part of the inferior frontal gyrus, and seizures here can have features overlapping with both orbitofrontal and Broca-area epilepsies. Patients may experience an initial loss of awareness or responsiveness and may stop speaking abruptly if the dominant hemisphere is involved. Automatisms like lip-smacking or fumbling with the hands can occur soon after onset, reflecting spread to adjacent frontal networks. Olfactory hallucinations (a sudden smell sensation) or autonomic signs (pupil dilation, changes in blood pressure) might also accompany these seizures, due to connections with limbic and autonomic centers. As the discharge often remains in frontal regions, these seizures are usually brief and can cluster, especially during sleep.",
+    "label": "Right Parsorbitalis",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "Pars orbitalis (Brodmann area 47) is the most anterior segment of the inferior frontal gyrus; it is involved in the brain\u2019s language network (e.g. complex syntax and semantics) and interfaces with orbitofrontal regions related to social-emotional processing."
+  },
+  {
+    "name": "rh_parstriangularis",
+    "gltfPath": "brain_model/rh_parstriangularis.gltf",
+    "semiology": "The pars opercularis (part of the dominant inferior frontal gyrus, Broca\u2019s area) is crucial for speech production, so seizures here often cause sudden speech disturbance. A patient in the midst of such a seizure may appear awake but be unable to speak or produce anything more than a few sounds \u2013 an ictal speech arrest or expressive aphasia. In addition to speech impairment, these seizures can involve frontal motor signs: for example, tonic stiffening of one side of the face or arm and forced deviation of the eyes toward the opposite side. Consciousness is usually preserved, though the person cannot communicate. In non-dominant inferior frontal seizures (right side in a right-handed person), speech is not lost; instead, subtle facial or behavioral changes might be noted without aphasia.",
+    "label": "Right Parstriangularis",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "Pars triangularis of the inferior frontal gyrus (Brodmann area 45) is part of Broca\u2019s area and is involved in semantic processing and other language functions (such as verbal fluency and syntax) in the dominant hemisphere."
+  },
+  {
+    "name": "rh_pericalcarine",
+    "gltfPath": "brain_model/rh_pericalcarine.gltf",
+    "semiology": "Seizures in the primary visual cortex (occipital lobe, including the cuneus) classically produce simple visual hallucinations in the opposite half of the visual field. Patients often see flashes of light, bright colors, or small flickering shapes that appear suddenly and last for seconds up to a couple of minutes. These elementary visual auras may remain isolated if the seizure is confined to the occipital lobe, but frequently the seizure spreads: about half progress to involve temporal lobe symptoms (such as loss of awareness and oral automatisms) or frontal motor symptoms. Occipital seizures commonly trigger a headache afterward, and they can be mistaken for migraine aura if not recognized.",
+    "label": "Right Pericalcarine",
+    "videos": [
+      "https://www.youtube.com/watch?v=ZzF9elkH23o"
+    ],
+    "function": "The pericalcarine cortex surrounds the calcarine fissure in the occipital lobe and corresponds to the primary visual cortex (V1, Brodmann area 17), which is the first cortical region to receive visual input and is responsible for basic visual processing of features like orientation and motion."
+  },
+  {
+    "name": "rh_postcentral",
+    "gltfPath": "brain_model/rh_postcentral.gltf",
+    "semiology": "Seizures of the postcentral gyrus (primary somatosensory cortex) produce focal positive sensory symptoms in the opposite side of the body. Patients experience sudden paresthesias \u2013 tingling, numbness, or a \"pins-and-needles\" feeling \u2013 in a specific region, such as the hand, face, or foot contralateral to the seizure focus. The tingling can spread systematically to adjacent body parts as the seizure propagates along the sensory homunculus (a Jacksonian sensory march). These purely sensory seizures do not typically impair consciousness. They may, however, trigger brief involuntary movements if the discharge spreads to the motor cortex, and occasionally a transient numbness or weakness can persist in the affected limb for a few minutes after the seizure (a sensory version of Todd\u2019s paralysis).",
+    "label": "Right Postcentral",
+    "videos": [
+      "https://www.youtube.com/watch?v=d2EbNua0vP8"
+    ],
+    "function": "The postcentral gyrus of the parietal lobe contains the primary somatosensory cortex (Brodmann areas 3, 1, 2), which perceives touch, pressure, vibration, pain, and proprioceptive information from the contralateral side of the body."
+  },
+  {
+    "name": "rh_posteriorcingulate",
+    "gltfPath": "brain_model/rh_posteriorcingulate.gltf",
+    "semiology": "Seizures in the posterior cingulate cortex are typically deceptive, as the actual onset produces few outward symptoms. This deep midline area can generate seizures that initially seem \u201csilent\u201d or only cause nonspecific feelings. By the time observable signs appear, the seizure has usually propagated: patients might then show behaviors suggestive of temporal lobe involvement (staring, unresponsiveness, automatisms) or sudden tonic limb posturing suggestive of frontal spread. Given this variability, posterior cingulate epilepsy often mimics other localization-related epilepsies, and precise diagnosis usually requires intracranial EEG evaluation.",
+    "label": "Right Posteriorcingulate",
+    "videos": [
+      "https://www.youtube.com/watch?v=Ds2O4WMJjGQ"
+    ],
+    "function": "The posterior cingulate cortex is a key hub of the default mode network and is highly metabolically active; it is involved in internally-directed cognition, such as autobiographical memory retrieval and self-reflection."
+  },
+  {
+    "name": "rh_precentral",
+    "gltfPath": "brain_model/rh_precentral.gltf",
+    "semiology": "Seizures originating in the precentral gyrus (primary motor cortex) cause characteristic contralateral motor signs. Depending on the area of the motor strip involved, the patient may have clonic jerking or tonic stiffening of the face, arm, or leg on the opposite side of the body. Often these movements start in one area (for example, hand twitching) and then \"march\" to involve neighboring muscle groups as the ictal activity spreads across the motor homunculus (Jacksonian march). The person usually remains aware during a limited motor seizure unless it generalizes. After the seizure, there may be a brief period of weakness (Todd\u2019s paralysis) in the affected limb corresponding to the exhausted motor cortex.",
+    "label": "Right Precentral",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The precentral gyrus of the frontal lobe contains the primary motor cortex (Brodmann area 4), which generates the neural commands for voluntary movements of the opposite side of the body, including fine motor control as represented in the motor homunculus."
+  },
+  {
+    "name": "rh_precuneus",
+    "gltfPath": "brain_model/rh_precuneus.gltf",
+    "semiology": "Precuneus seizures are notable for producing unusual sensations reflecting this region\u2019s role in integration of sensory, visual, and self-referential information. Patients can experience vestibular or movement illusions \u2013 a feeling of flying, falling, or the body tilting \u2013 as well as visual hallucinations like scenes or bright lights appearing out of nowhere. Some precuneus seizures give rise to out-of-body experiences or a sense of detachment, since the precuneus is involved in body awareness. These seizures might also mimic temporal lobe seizures in that they can include memory flashbacks or d\u00e9j\u00e0 vu if they propagate to limbic circuits. Depending on spread, motor signs (like head-turning or limb posturing) may appear later in the seizure, but early on the person often remains aware and able to recall the bizarre sensations.",
+    "label": "Right Precuneus",
+    "videos": [
+      "https://www.youtube.com/watch?v=d2EbNua0vP8"
+    ],
+    "function": "The precuneus (medial superior parietal lobule) is involved in self-referential thought, visuo-spatial imagery, and episodic memory retrieval, and it is noted as a central hub in the default mode network."
+  },
+  {
+    "name": "rh_rostralanteriorcingulate",
+    "gltfPath": "brain_model/rh_rostralanteriorcingulate.gltf",
+    "semiology": "Seizures arising from the anterior cingulate gyrus (frontal part of the cingulate cortex) often produce dramatic motor and emotional manifestations. They typically begin with a sudden behavioral arrest and stare, followed by complex motor automatisms (such as rocking, pelvic thrusting, or even taking steps) along with vocalizations like grunts or shouts. Intense feelings of fear or other emotions can occur, and autonomic changes (flushing, changes in heart rate) are common; even urinary incontinence has been reported in some cases. The overall picture overlaps with mesial frontal lobe seizures (supplementary motor area), but prominent fear and vocal outbursts are particularly characteristic of anterior cingulate seizures.",
+    "label": "Right Rostralanteriorcingulate",
+    "videos": [
+      "https://www.youtube.com/watch?v=Ds2O4WMJjGQ"
+    ],
+    "function": "The rostral (perigenual) anterior cingulate cortex is considered part of the brain\u2019s affective division, involved in emotion processing, motivation, and autonomic regulation (through its connections with the amygdala and brainstem)."
+  },
+  {
+    "name": "rh_rostralmiddlefrontal",
+    "gltfPath": "brain_model/rh_rostralmiddlefrontal.gltf",
+    "semiology": "Seizures in the dorsolateral frontal cortex (middle frontal gyrus) often involve forced motor postures and gaze deviation. Patients may develop an unnatural tonic posturing of the contralateral arm or leg and the eyes and head may turn to the opposite side of the lesion during the seizure. If the focus is in the dominant hemisphere and spreads to Broca\u2019s area, the patient can experience ictal speech arrest \u2013 being awake but suddenly unable to speak. Some individuals report experiencing a \"forced thought\" at onset (an involuntary, sudden thought or urge), reflecting higher-order frontal cortical involvement. These seizures are usually brief and can rapidly generalize if they propagate to motor cortex, leading to secondary tonic-clonic activity.",
+    "label": "Right Rostralmiddlefrontal",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The rostral middle frontal gyrus corresponds to the anterior dorsolateral prefrontal cortex, which is critical for executive functions such as working memory, planning, cognitive flexibility, and abstract reasoning."
+  },
+  {
+    "name": "rh_superiorfrontal",
+    "gltfPath": "brain_model/rh_superiorfrontal.gltf",
+    "semiology": "Seizures in the dorsolateral frontal cortex (middle frontal gyrus) often involve forced motor postures and gaze deviation. Patients may develop an unnatural tonic posturing of the contralateral arm or leg and the eyes and head may turn to the opposite side of the lesion during the seizure. If the focus is in the dominant hemisphere and spreads to Broca\u2019s area, the patient can experience ictal speech arrest \u2013 being awake but suddenly unable to speak. Some individuals report experiencing a \"forced thought\" at onset (an involuntary, sudden thought or urge), reflecting higher-order frontal cortical involvement. These seizures are usually brief and can rapidly generalize if they propagate to motor cortex, leading to secondary tonic-clonic activity.",
+    "label": "Right Superiorfrontal",
+    "videos": [
+      "https://www.youtube.com/watch?v=sI-44P5d_BU"
+    ],
+    "function": "The superior frontal gyrus, spanning dorsolateral and medial prefrontal cortex, contributes to higher cognitive functions and self-awareness; for example, it has been implicated in working memory and the introspective evaluation of one\u2019s own actions."
+  },
+  {
+    "name": "rh_superiorparietal",
+    "gltfPath": "brain_model/rh_superiorparietal.gltf",
+    "semiology": "Seizures involving the superior parietal lobule primarily cause contralateral somatosensory disturbances and misperceptions of the body. Commonly, patients feel tingling, numbness, or an \"electric\" sensation spreading over one side of the body (in a pattern that may march from one area to the next). In addition, higher-order illusions can occur: an arm or leg might feel as though it\u2019s in a wrong position or that its size has changed (a limb may feel unnaturally large or small). Awareness is typically preserved through these sensory seizures. However, further spread of the seizure (for example, into frontal motor areas) can add movements or loss of awareness to the clinical picture.",
+    "label": "Right Superiorparietal",
+    "videos": [
+      "https://www.youtube.com/watch?v=d2EbNua0vP8"
+    ],
+    "function": "The superior parietal lobule (Brodmann areas 5 and 7) is a sensory association area that integrates tactile, visual, and proprioceptive inputs to guide spatial orientation, attention, and coordinated movements (e.g. reaching and stereognosis)."
+  },
+  {
+    "name": "rh_superiortemporal",
+    "gltfPath": "brain_model/rh_superiortemporal.gltf",
+    "semiology": "Seizures of the superior temporal gyrus often affect auditory processing and language. An early symptom can be an auditory hallucination \u2013 hearing a buzzing, a tone, or even music \u2013 as the primary auditory cortex and association areas in this region are activated. In a dominant superior temporal seizure (left side for most people), the patient may experience an ictal Wernicke\u2019s aphasia: they suddenly cannot understand what is being said and may speak gibberish or not at all during the event. As the seizure progresses, awareness is lost and automotor behaviors (mouthing, lip-smacking, fidgeting with hands) appear, characteristic of temporal lobe seizures. These seizures can also secondarily generalize if the discharges spread beyond the temporal lobe.",
+    "label": "Right Superiortemporal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The superior temporal gyrus is essential for auditory perception and language comprehension: it houses the primary auditory cortex and, in the dominant hemisphere, Wernicke\u2019s area for understanding speech."
+  },
+  {
+    "name": "rh_supramarginal",
+    "gltfPath": "brain_model/rh_supramarginal.gltf",
+    "semiology": "The supramarginal gyrus (part of the inferior parietal lobe) integrates tactile, visual, and vestibular information, so seizures here can cause striking bodily illusions. Patients might suddenly feel a limb move or change position when it hasn\u2019t, or sense that parts of their body have altered size (for example, an arm feels enormously large or shrunken). Some also experience transient vertigo or a sensation of being tilted, due to involvement of vestibular processing areas. These parietal seizures are often brief and do not impair consciousness unless they propagate to other regions; in case of spread, additional symptoms (like frontal lobe motor signs or temporal lobe confusion) may overlay the primary somatosensory aura.",
+    "label": "Right Supramarginal",
+    "videos": [
+      "https://www.youtube.com/watch?v=d2EbNua0vP8"
+    ],
+    "function": "The supramarginal gyrus (Brodmann area 40) is part of the inferior parietal lobule and contributes to multimodal sensory integration and language. It helps interpret tactile information and the spatial position of limbs (as a somatosensory association area) and also supports phonological processing in language perception."
+  },
+  {
+    "name": "rh_temporalpole",
+    "gltfPath": "brain_model/rh_temporalpole.gltf",
+    "semiology": "The temporal pole (anterior-most temporal lobe) is part of the limbic network, and seizures here often begin with intense psychic or emotional auras. Patients frequently report a sudden wave of fear, anxiety, or even euphoria at the start of the seizure. An \"uncinate\" (smell) aura is also classic for temporal pole seizures \u2013 a brief phantom odor (often described as foul or burning) that signals involvement of the uncus/amygdala region. Soon after these initial sensations, the seizure typically evolves into a focal impaired awareness seizure: the patient becomes unresponsive, may stare blankly, and engages in automatisms like lip smacking, chewing, or repetitive hand movements. Autonomic features (such as flushing, heart racing) and emotional behaviors (like crying or panic) can accompany temporal pole seizures due to activation of amygdalar networks.",
+    "label": "Right Temporalpole",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The temporal pole (Brodmann area 38) is an anterior temporal lobe region involved in high-level integration of memory, language, and emotion. The left temporal pole has been associated with semantic memory (e.g. names and word meanings), whereas the right temporal pole is more involved in socio-emotional memory and face familiarity."
+  },
+  {
+    "name": "rh_transversetemporal",
+    "gltfPath": "brain_model/rh_transversetemporal.gltf",
+    "semiology": "The transverse temporal gyrus (Heschl\u2019s gyrus) contains the primary auditory cortex, so seizures here typically produce simple auditory auras. Patients may suddenly hear a buzzing, ringing, or humming sound, sometimes described like \"static\" or a tone, often localized to one ear or side. Unlike more complex auditory hallucinations, these sounds are unformed and reflect the involvement of primary auditory processing. The auditory aura usually gives way to impairment of awareness as the seizure spreads to the temporal neocortex, with the person becoming unresponsive and exhibiting oral and manual automatisms (e.g., lip smacking, chewing, or rubbing fingers). If the seizure propagates further (for example, to motor areas), it may induce contralateral posturing or even a secondary generalized convulsion, although this is less common in pure temporal lobe epilepsy.",
+    "label": "Right Transversetemporal",
+    "videos": [
+      "https://www.youtube.com/watch?v=MPhntNHbpJ0"
+    ],
+    "function": "The transverse temporal gyri (Heschl\u2019s gyri) on the superior surface of the temporal lobe contain the primary auditory cortex (Brodmann areas 41/42), which is the first cortical area for processing sound information (tones, pitch, and other basic auditory features) from the cochlea."
+  },
+  {
+    "name": "Left_Accumbens",
+    "label": "Left Accumbens",
+    "semiology": "",
+    "function": "Central to reward, motivation, and reinforcement learning.",
+    "references": [],
+    "videos": []
+  },
+  {
+    "name": "Left_Amygdala",
+    "label": "Left Amygdala",
+    "semiology": "Seizures may involve emotional auras, fear, or panic sensations.",
+    "function": "Processes emotions such as fear and pleasure; connects with memory systems.",
+    "references": [
+      "doi:10.1016/j.yebeh.2015.10.009"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=amygdala_seizure"
+    ]
+  },
+  {
+    "name": "Left_Caudate",
+    "label": "Left Caudate",
+    "semiology": "",
+    "function": "Involved in motor processing and various learning processes.",
+    "references": [],
+    "videos": []
+  },
+  {
+    "name": "Left_Cerebellum_Cortex",
+    "label": "Left Cerebellum Cortex",
+    "semiology": "Cerebellar seizures are rare but may cause ataxia or clonic tremors.",
+    "function": "Coordinates voluntary movements such as posture, balance, coordination, and speech.",
+    "references": [
+      "doi:10.1111/epi.12701"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=cerebellar_seizure"
+    ]
+  },
+  {
+    "name": "Left_Cerebellum",
+    "label": "Left Cerebellum",
+    "semiology": "",
+    "function": "Includes both cortex and deep nuclei; critical for movement timing and correction.",
+    "references": [],
+    "videos": []
+  },
+  {
+    "name": "Left_Hippocampus",
+    "label": "Left Hippocampus",
+    "semiology": "Common site of mesial temporal lobe epilepsy, often causing d\u00e9j\u00e0 vu, fear, or rising epigastric sensations.",
+    "function": "Key role in memory formation and spatial navigation.",
+    "references": [
+      "doi:10.1016/j.yebeh.2012.03.017"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=hippocampal_epilepsy"
+    ]
+  },
+  {
+    "name": "Left_Pallidum",
+    "label": "Left Pallidum",
+    "semiology": "",
+    "function": "Regulates voluntary movement through inhibition of motor pathways.",
+    "references": [],
+    "videos": []
+  },
+  {
+    "name": "Left_Putamen",
+    "label": "Left Putamen",
+    "semiology": "",
+    "function": "Regulates movements and influences learning via the basal ganglia.",
+    "references": [],
+    "videos": []
+  },
+  {
+    "name": "Left_Thalamus",
+    "label": "Left Thalamus",
+    "semiology": "Seizures involving the thalamus may cause loss of consciousness or widespread bilateral spread.",
+    "function": "Relay station for sensory and motor signals to the cerebral cortex.",
+    "references": [
+      "doi:10.1016/j.yebeh.2017.09.011"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=thalamic_seizure_example"
+    ]
+  },
+  {
+    "name": "Right_Accumbens",
+    "label": "Right Accumbens",
+    "semiology": "",
+    "function": "Processes reward, pleasure, and reinforcement signals.",
+    "references": [],
+    "videos": []
+  },
+  {
+    "name": "Right_Amygdala",
+    "label": "Right Amygdala",
+    "semiology": "Right-sided amygdala seizures can cause laughter, crying, or emotional detachment.",
+    "function": "Emotional processing and affective responses, particularly in social contexts.",
+    "references": [
+      "doi:10.1016/j.yebeh.2015.10.009"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=amygdala_seizure"
+    ]
+  },
+  {
+    "name": "Right_Caudate",
+    "label": "Right Caudate",
+    "semiology": "",
+    "function": "Motor function, procedural learning, and associative learning.",
+    "references": [],
+    "videos": []
+  },
+  {
+    "name": "Right_Cerebellum_Cortex",
+    "label": "Right Cerebellum Cortex",
+    "semiology": "Involvement may cause gait instability or limb ataxia during seizures.",
+    "function": "Motor coordination, especially of the right-sided limbs and eye movement tracking.",
+    "references": [
+      "doi:10.1111/epi.12701"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=cerebellar_seizure"
+    ]
+  },
+  {
+    "name": "Right_Cerebellum",
+    "label": "Right Cerebellum",
+    "semiology": "",
+    "function": "Coordinates movement and cognitive processes such as attention and language.",
+    "references": [],
+    "videos": []
+  },
+  {
+    "name": "Right_Hippocampus",
+    "label": "Right Hippocampus",
+    "semiology": "May produce affective auras or automotor seizures with subtle onset.",
+    "function": "Memory consolidation and spatial memory, particularly visual and contextual.",
+    "references": [
+      "doi:10.1016/j.yebeh.2012.03.017"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=hippocampal_epilepsy"
+    ]
+  },
+  {
+    "name": "Right_Pallidum",
+    "label": "Right Pallidum",
+    "semiology": "",
+    "function": "Part of the basal ganglia network that influences movement control.",
+    "references": [],
+    "videos": []
+  },
+  {
+    "name": "Right_Putamen",
+    "label": "Right Putamen",
+    "semiology": "",
+    "function": "Involved in motor control and learning, especially of routine behaviors.",
+    "references": [],
+    "videos": []
+  },
+  {
+    "name": "Right_Thalamus",
+    "label": "Right Thalamus",
+    "semiology": "Right thalamic involvement may result in contralateral sensory disruption and impaired awareness.",
+    "function": "Relay station for sensory and motor signals to the cerebral cortex.",
+    "references": [
+      "doi:10.1016/j.yebeh.2017.09.011"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=thalamic_seizure_example"
+    ]
+  }
+]
