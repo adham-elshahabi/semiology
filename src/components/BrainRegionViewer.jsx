@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Canvas } from '@react-three/fiber';
-import { OrbitControls } from '@react-three/drei';
+import { OrbitControls, Environment } from '@react-three/drei';
 import RegionMesh from './RegionMesh';
 import ControlsOverlay from './ControlsOverlay';
 import TooltipOverlay from './TooltipOverlay';
@@ -67,7 +67,6 @@ export default function BrainRegionViewer() {
       </div>
 
       <div style={{ display: 'flex', flexDirection: 'row', flex: 1, overflow: 'hidden' }}>
-        {/* 3D Viewer */}
         <div style={{ flex: 1.2, position: 'relative' }}>
           <ControlsOverlay
             cameraRef={cameraRef}
@@ -88,7 +87,9 @@ export default function BrainRegionViewer() {
           >
             <ambientLight intensity={2.0} />
             <directionalLight position={[0, 100, 100]} intensity={1.8} />
-            <pointLight position={[50, 50, 100]} intensity={1.0} />
+            <directionalLight position={[-100, -100, 0]} intensity={1.5} />
+            <pointLight position={[0, 0, 300]} intensity={2.0} />
+            <Environment preset="sunset" />
             <OrbitControls ref={controlsRef} />
             {regionsData.map((region) => {
               const isLH = region.name.startsWith('lh_');
@@ -123,7 +124,6 @@ export default function BrainRegionViewer() {
           <TooltipOverlay label={hoveredRegion?.label} position={mousePos} />
         </div>
 
-        {/* Right Panel */}
         <div style={{ flex: 0.8, display: 'flex', flexDirection: 'column', height: '100%' }}>
           <div style={{ backgroundColor: panelBg, borderRadius: '1rem', padding: '1rem', margin: '1rem', overflowY: 'auto', flex: '1 1 50%', color: textColor }}>
             <h2 style={{ marginTop: 0 }}>Regions</h2>
