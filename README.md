@@ -1,13 +1,71 @@
-# React + Vite
+# Semiology Atlas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive 3D brain viewer for visualizing seizure semiology by region, using React, Three.js, and GLB models.
 
-Currently, two official plugins are available:
+## 🧠 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 💡 Clickable brain regions with tooltip hover
+- 🎯 Region-specific semiology, function, and reference info
+- 🌒 Dark/light mode toggle
+- 🧭 Camera controls with zoom & reset
+- 🧩 Toggle visibility by hemisphere and subcortical/cerebellar structures
+- 📺 Embedded videos per region
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# semiology
+### 1. Clone the repository
+
+\`\`\`bash
+git clone https://github.com/adham-elshahabi/semiology.git
+cd semiology
+\`\`\`
+
+### 2. Install dependencies
+
+\`\`\`bash
+npm install
+\`\`\`
+
+### 3. Run the development server
+
+\`\`\`bash
+npm run dev
+\`\`\`
+
+Then open your browser at [http://localhost:5173](http://localhost:5173)
+
+> Uses [Vite](https://vitejs.dev) for fast development.
+
+---
+
+## 🗂️ Project Structure
+
+\`\`\`
+.
+├── public/
+│   └── data/
+│       ├── regions_whole_brain.json
+│       └── *.glb                   # 3D brain region files
+├── src/
+│   ├── components/
+│   │   ├── BrainRegionViewer.jsx
+│   │   ├── RegionMesh.jsx
+│   │   ├── ControlsOverlay.jsx
+│   │   └── TooltipOverlay.jsx
+│   └── main.jsx
+├── .gitignore
+├── index.html
+└── README.md
+\`\`\`
+
+---
+
+## 🧾 License
+
+MIT © [Adham Elshahabi](https://elshahabi.com)
+
+---
+
+## 📬 Contact
+
+Got feedback or ideas? Feel free to open an issue or contact me at [adham.elshahabi@gmail.com](mailto:adham.elshahabi@gmail.com)
