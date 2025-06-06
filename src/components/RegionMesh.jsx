@@ -9,7 +9,8 @@ export default function RegionMesh({
   onHover,
   onClick,
   visible,
-  resetTrigger
+  resetTrigger,
+  opacity = 1.0  // <- NEW
 }) {
   const { scene } = useGLTF(`data/${region.name}.glb`);
   const meshRef = useRef();
@@ -21,22 +22,16 @@ export default function RegionMesh({
         child.material = child.material.clone();
         child.material.transparent = true;
 
-        // New logic:
-        // If selected or hovered, full opacity
-        // Otherwise, fade
-        if (isSelected || isHovered) {
-          child.material.opacity = 1.0;
-        } else if (isSelected === false) {
-          child.material.opacity = 0.1;
-        } else {
-          child.material.opacity = 1.0;
-        }
+        // Final opacity logic:
+        // Hover always shows full opacity
+        child.material.opacity = isHovered ? 1.0 : opacity;
 
+        // Color logic
         child.material.color.set(isHovered ? '#ffff66' : '#cccccc');
         child.userData.regionName = region.name;
       }
     });
-  }, [scene, isSelected, isHovered, visible, resetTrigger]);
+  }, [scene, isSelected, isHovered, visible, resetTrigger, opacity]);
 
   useEffect(() => {
     if (resetTrigger !== null) {

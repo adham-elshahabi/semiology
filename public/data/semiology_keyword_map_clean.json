@@ -1,0 +1,6129 @@
+{
+  "part": [
+    "lh_bankssts",
+    "lh_caudalanteriorcingulate",
+    "lh_entorhinal",
+    "lh_frontalpole",
+    "lh_fusiform",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_rostralanteriorcingulate",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "rh_bankssts",
+    "rh_caudalanteriorcingulate",
+    "rh_entorhinal",
+    "rh_frontalpole",
+    "rh_fusiform",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_rostralanteriorcingulate",
+    "rh_supramarginal",
+    "rh_temporalpole"
+  ],
+  "superior": [
+    "lh_bankssts",
+    "lh_superiorparietal",
+    "lh_superiortemporal",
+    "rh_bankssts",
+    "rh_superiorparietal",
+    "rh_superiortemporal"
+  ],
+  "temporal": [
+    "Left_Hippocampus",
+    "lh_bankssts",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_pericalcarine",
+    "lh_posteriorcingulate",
+    "lh_precuneus",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_fusiform",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_pericalcarine",
+    "rh_posteriorcingulate",
+    "rh_precuneus",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "sulcus": [
+    "lh_bankssts",
+    "rh_bankssts"
+  ],
+  "region": [
+    "lh_bankssts",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_isthmuscingulate",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_postcentral",
+    "lh_precuneus",
+    "lh_superiortemporal",
+    "lh_temporalpole",
+    "rh_bankssts",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_isthmuscingulate",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_postcentral",
+    "rh_precuneus",
+    "rh_superiortemporal",
+    "rh_temporalpole"
+  ],
+  "lateral": [
+    "lh_bankssts",
+    "lh_lateraloccipital",
+    "lh_middletemporal",
+    "rh_bankssts",
+    "rh_lateraloccipital",
+    "rh_middletemporal"
+  ],
+  "lobe": [
+    "Left_Hippocampus",
+    "lh_bankssts",
+    "lh_caudalanteriorcingulate",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_pericalcarine",
+    "lh_posteriorcingulate",
+    "lh_precuneus",
+    "lh_rostralanteriorcingulate",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_caudalanteriorcingulate",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_fusiform",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_pericalcarine",
+    "rh_posteriorcingulate",
+    "rh_precuneus",
+    "rh_rostralanteriorcingulate",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "seizures": [
+    "Left_Amygdala",
+    "Left_Cerebellum_Cortex",
+    "Left_Thalamus",
+    "Right_Amygdala",
+    "Right_Cerebellum_Cortex",
+    "Right_Hippocampus",
+    "lh_bankssts",
+    "lh_caudalanteriorcingulate",
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_frontalpole",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_posteriorcingulate",
+    "lh_precentral",
+    "lh_precuneus",
+    "lh_rostralanteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_caudalanteriorcingulate",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_frontalpole",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_posteriorcingulate",
+    "rh_precentral",
+    "rh_precuneus",
+    "rh_rostralanteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "often": [
+    "Left_Hippocampus",
+    "lh_bankssts",
+    "lh_caudalanteriorcingulate",
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_frontalpole",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_pericalcarine",
+    "lh_posteriorcingulate",
+    "lh_precentral",
+    "lh_precuneus",
+    "lh_rostralanteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_caudalanteriorcingulate",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_frontalpole",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_pericalcarine",
+    "rh_posteriorcingulate",
+    "rh_precentral",
+    "rh_precuneus",
+    "rh_rostralanteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "manifest": [
+    "lh_bankssts",
+    "lh_inferiorparietal",
+    "rh_bankssts",
+    "rh_inferiorparietal"
+  ],
+  "auditory": [
+    "lh_bankssts",
+    "lh_inferiortemporal",
+    "lh_middletemporal",
+    "lh_superiortemporal",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_inferiortemporal",
+    "rh_middletemporal",
+    "rh_superiortemporal",
+    "rh_transversetemporal"
+  ],
+  "symptoms": [
+    "lh_bankssts",
+    "lh_cuneus",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_posteriorcingulate",
+    "lh_supramarginal",
+    "rh_bankssts",
+    "rh_cuneus",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_posteriorcingulate",
+    "rh_supramarginal"
+  ],
+  "language": [
+    "lh_bankssts",
+    "lh_inferiorparietal",
+    "lh_middletemporal",
+    "lh_superiortemporal",
+    "rh_bankssts",
+    "rh_inferiorparietal",
+    "rh_middletemporal",
+    "rh_superiortemporal"
+  ],
+  "disturbances": [
+    "lh_bankssts",
+    "lh_inferiorparietal",
+    "lh_superiorparietal",
+    "rh_bankssts",
+    "rh_inferiorparietal",
+    "rh_superiorparietal"
+  ],
+  "patients": [
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_frontalpole",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsorbitalis",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_posteriorcingulate",
+    "lh_precuneus",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_frontalpole",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsorbitalis",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_posteriorcingulate",
+    "rh_precuneus",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal",
+    "rh_supramarginal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "might": [
+    "lh_bankssts",
+    "lh_entorhinal",
+    "lh_inferiorparietal",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_posteriorcingulate",
+    "lh_precuneus",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_bankssts",
+    "rh_entorhinal",
+    "rh_inferiorparietal",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_posteriorcingulate",
+    "rh_precuneus",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "report": [
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_inferiortemporal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_temporalpole",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_inferiortemporal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_temporalpole"
+  ],
+  "hearing": [
+    "lh_bankssts",
+    "lh_middletemporal",
+    "lh_superiortemporal",
+    "rh_bankssts",
+    "rh_middletemporal",
+    "rh_superiortemporal"
+  ],
+  "simple": [
+    "lh_bankssts",
+    "lh_cuneus",
+    "lh_lateraloccipital",
+    "lh_pericalcarine",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_cuneus",
+    "rh_lateraloccipital",
+    "rh_pericalcarine",
+    "rh_transversetemporal"
+  ],
+  "sounds": [
+    "lh_bankssts",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_transversetemporal"
+  ],
+  "buzzing": [
+    "lh_bankssts",
+    "lh_middletemporal",
+    "lh_superiortemporal",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_middletemporal",
+    "rh_superiortemporal",
+    "rh_transversetemporal"
+  ],
+  "ringing": [
+    "lh_bankssts",
+    "lh_middletemporal",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_middletemporal",
+    "rh_transversetemporal"
+  ],
+  "distortions": [
+    "lh_bankssts",
+    "lh_inferiorparietal",
+    "lh_lingual",
+    "rh_bankssts",
+    "rh_inferiorparietal",
+    "rh_lingual"
+  ],
+  "sound": [
+    "lh_bankssts",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_transversetemporal"
+  ],
+  "initial": [
+    "lh_bankssts",
+    "lh_entorhinal",
+    "lh_frontalpole",
+    "lh_parsorbitalis",
+    "lh_temporalpole",
+    "rh_bankssts",
+    "rh_entorhinal",
+    "rh_frontalpole",
+    "rh_parsorbitalis",
+    "rh_temporalpole"
+  ],
+  "aura": [
+    "lh_bankssts",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_frontalpole",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_isthmuscingulate",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_pericalcarine",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_frontalpole",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_isthmuscingulate",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_pericalcarine",
+    "rh_supramarginal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "dominant": [
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_inferiorparietal",
+    "lh_middletemporal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiortemporal",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_inferiorparietal",
+    "rh_middletemporal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiortemporal"
+  ],
+  "hemisphere": [
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_inferiorparietal",
+    "lh_middletemporal",
+    "lh_parsorbitalis",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_inferiorparietal",
+    "rh_middletemporal",
+    "rh_parsorbitalis",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "involved": [
+    "lh_bankssts",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_parsorbitalis",
+    "lh_precentral",
+    "lh_precuneus",
+    "rh_bankssts",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_parsorbitalis",
+    "rh_precentral",
+    "rh_precuneus"
+  ],
+  "seizure": [
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_frontalpole",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_posteriorcingulate",
+    "lh_precentral",
+    "lh_precuneus",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "lh_superiortemporal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_frontalpole",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_posteriorcingulate",
+    "rh_precentral",
+    "rh_precuneus",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal",
+    "rh_superiortemporal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "can": [
+    "Right_Amygdala",
+    "lh_bankssts",
+    "lh_caudalanteriorcingulate",
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_frontalpole",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_posteriorcingulate",
+    "lh_precuneus",
+    "lh_rostralanteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "rh_bankssts",
+    "rh_caudalanteriorcingulate",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_frontalpole",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_posteriorcingulate",
+    "rh_precuneus",
+    "rh_rostralanteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_temporalpole"
+  ],
+  "interfere": [
+    "lh_bankssts",
+    "rh_bankssts"
+  ],
+  "comprehension": [
+    "lh_bankssts",
+    "lh_inferiorparietal",
+    "lh_middletemporal",
+    "rh_bankssts",
+    "rh_inferiorparietal",
+    "rh_middletemporal"
+  ],
+  "leading": [
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_frontalpole",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_frontalpole",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "ictal": [
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_isthmuscingulate",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiortemporal",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_isthmuscingulate",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiortemporal"
+  ],
+  "receptive": [
+    "lh_bankssts",
+    "rh_bankssts"
+  ],
+  "aphasia": [
+    "lh_bankssts",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_superiortemporal",
+    "rh_bankssts",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_superiortemporal"
+  ],
+  "inability": [
+    "lh_bankssts",
+    "rh_bankssts"
+  ],
+  "understand": [
+    "lh_bankssts",
+    "lh_middletemporal",
+    "lh_superiortemporal",
+    "rh_bankssts",
+    "rh_middletemporal",
+    "rh_superiortemporal"
+  ],
+  "speech": [
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "typically": [
+    "lh_bankssts",
+    "lh_caudalanteriorcingulate",
+    "lh_frontalpole",
+    "lh_insula",
+    "lh_middletemporal",
+    "lh_postcentral",
+    "lh_posteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "lh_superiorparietal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_caudalanteriorcingulate",
+    "rh_frontalpole",
+    "rh_insula",
+    "rh_middletemporal",
+    "rh_postcentral",
+    "rh_posteriorcingulate",
+    "rh_rostralanteriorcingulate",
+    "rh_superiorparietal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "progress": [
+    "lh_bankssts",
+    "lh_cuneus",
+    "lh_middletemporal",
+    "lh_pericalcarine",
+    "rh_bankssts",
+    "rh_cuneus",
+    "rh_middletemporal",
+    "rh_pericalcarine"
+  ],
+  "quickly": [
+    "lh_bankssts",
+    "lh_inferiortemporal",
+    "rh_bankssts",
+    "rh_inferiortemporal"
+  ],
+  "impaired": [
+    "Right_Thalamus",
+    "lh_bankssts",
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "lh_parahippocampal",
+    "lh_temporalpole",
+    "rh_bankssts",
+    "rh_fusiform",
+    "rh_inferiortemporal",
+    "rh_parahippocampal",
+    "rh_temporalpole"
+  ],
+  "awareness": [
+    "Right_Thalamus",
+    "lh_bankssts",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_parsorbitalis",
+    "lh_pericalcarine",
+    "lh_precuneus",
+    "lh_superiorparietal",
+    "lh_superiortemporal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_fusiform",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_parsorbitalis",
+    "rh_pericalcarine",
+    "rh_precuneus",
+    "rh_superiorparietal",
+    "rh_superiortemporal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "automatisms": [
+    "lh_bankssts",
+    "lh_caudalanteriorcingulate",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_parsorbitalis",
+    "lh_pericalcarine",
+    "lh_posteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_caudalanteriorcingulate",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_fusiform",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_parsorbitalis",
+    "rh_pericalcarine",
+    "rh_posteriorcingulate",
+    "rh_rostralanteriorcingulate",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "lip": [
+    "lh_bankssts",
+    "lh_inferiortemporal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_parsorbitalis",
+    "lh_superiortemporal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_inferiortemporal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_parsorbitalis",
+    "rh_superiortemporal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "smacking": [
+    "lh_bankssts",
+    "lh_inferiortemporal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_parsorbitalis",
+    "lh_superiortemporal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_inferiortemporal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_parsorbitalis",
+    "rh_superiortemporal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "fumbling": [
+    "lh_bankssts",
+    "lh_parahippocampal",
+    "lh_parsorbitalis",
+    "rh_bankssts",
+    "rh_parahippocampal",
+    "rh_parsorbitalis"
+  ],
+  "may": [
+    "Left_Amygdala",
+    "Left_Cerebellum_Cortex",
+    "Left_Thalamus",
+    "Right_Cerebellum_Cortex",
+    "Right_Hippocampus",
+    "Right_Thalamus",
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_frontalpole",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_precuneus",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_frontalpole",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_precuneus",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "induce": [
+    "lh_bankssts",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_transversetemporal"
+  ],
+  "contralateral": [
+    "Right_Thalamus",
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal",
+    "rh_transversetemporal"
+  ],
+  "limb": [
+    "Right_Cerebellum_Cortex",
+    "lh_bankssts",
+    "lh_inferiorparietal",
+    "lh_middletemporal",
+    "lh_postcentral",
+    "lh_posteriorcingulate",
+    "lh_precentral",
+    "lh_precuneus",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_bankssts",
+    "rh_inferiorparietal",
+    "rh_middletemporal",
+    "rh_postcentral",
+    "rh_posteriorcingulate",
+    "rh_precentral",
+    "rh_precuneus",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "posturing": [
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_isthmuscingulate",
+    "lh_middletemporal",
+    "lh_posteriorcingulate",
+    "lh_precuneus",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_isthmuscingulate",
+    "rh_middletemporal",
+    "rh_posteriorcingulate",
+    "rh_precuneus",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_transversetemporal"
+  ],
+  "spreads": [
+    "lh_bankssts",
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_inferiorparietal",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_lingual",
+    "lh_middletemporal",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_transversetemporal",
+    "rh_bankssts",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_inferiorparietal",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_lingual",
+    "rh_middletemporal",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_transversetemporal"
+  ],
+  "arising": [
+    "lh_caudalanteriorcingulate",
+    "lh_frontalpole",
+    "lh_lateraloccipital",
+    "lh_middletemporal",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_frontalpole",
+    "rh_lateraloccipital",
+    "rh_middletemporal",
+    "rh_rostralanteriorcingulate"
+  ],
+  "anterior": [
+    "lh_caudalanteriorcingulate",
+    "lh_frontalpole",
+    "lh_parsorbitalis",
+    "lh_rostralanteriorcingulate",
+    "lh_temporalpole",
+    "rh_caudalanteriorcingulate",
+    "rh_frontalpole",
+    "rh_parsorbitalis",
+    "rh_rostralanteriorcingulate",
+    "rh_temporalpole"
+  ],
+  "cingulate": [
+    "lh_caudalanteriorcingulate",
+    "lh_isthmuscingulate",
+    "lh_posteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_isthmuscingulate",
+    "rh_posteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "gyrus": [
+    "lh_caudalanteriorcingulate",
+    "lh_caudalmiddlefrontal",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_lingual",
+    "lh_middletemporal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_rostralanteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_transversetemporal",
+    "rh_caudalanteriorcingulate",
+    "rh_caudalmiddlefrontal",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_lingual",
+    "rh_middletemporal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_rostralanteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_transversetemporal"
+  ],
+  "frontal": [
+    "lh_caudalanteriorcingulate",
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_frontalpole",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_lateraloccipital",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_pericalcarine",
+    "lh_posteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_caudalanteriorcingulate",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_frontalpole",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_lateraloccipital",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_pericalcarine",
+    "rh_posteriorcingulate",
+    "rh_rostralanteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "cortex": [
+    "lh_caudalanteriorcingulate",
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_posteriorcingulate",
+    "lh_precentral",
+    "lh_rostralanteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiortemporal",
+    "lh_transversetemporal",
+    "rh_caudalanteriorcingulate",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_posteriorcingulate",
+    "rh_precentral",
+    "rh_rostralanteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiortemporal",
+    "rh_transversetemporal"
+  ],
+  "produce": [
+    "Right_Hippocampus",
+    "lh_caudalanteriorcingulate",
+    "lh_cuneus",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_rostralanteriorcingulate",
+    "lh_transversetemporal",
+    "rh_caudalanteriorcingulate",
+    "rh_cuneus",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_rostralanteriorcingulate",
+    "rh_transversetemporal"
+  ],
+  "dramatic": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "motor": [
+    "lh_caudalanteriorcingulate",
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_frontalpole",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_paracentral",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_precuneus",
+    "lh_rostralanteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "lh_transversetemporal",
+    "rh_caudalanteriorcingulate",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_frontalpole",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_paracentral",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_precuneus",
+    "rh_rostralanteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal",
+    "rh_supramarginal",
+    "rh_transversetemporal"
+  ],
+  "emotional": [
+    "Left_Amygdala",
+    "Right_Amygdala",
+    "lh_caudalanteriorcingulate",
+    "lh_inferiortemporal",
+    "lh_rostralanteriorcingulate",
+    "lh_temporalpole",
+    "rh_caudalanteriorcingulate",
+    "rh_inferiortemporal",
+    "rh_rostralanteriorcingulate",
+    "rh_temporalpole"
+  ],
+  "manifestations": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "begin": [
+    "lh_caudalanteriorcingulate",
+    "lh_frontalpole",
+    "lh_insula",
+    "lh_paracentral",
+    "lh_rostralanteriorcingulate",
+    "lh_temporalpole",
+    "rh_caudalanteriorcingulate",
+    "rh_frontalpole",
+    "rh_insula",
+    "rh_paracentral",
+    "rh_rostralanteriorcingulate",
+    "rh_temporalpole"
+  ],
+  "sudden": [
+    "lh_caudalanteriorcingulate",
+    "lh_caudalmiddlefrontal",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_postcentral",
+    "lh_posteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_temporalpole",
+    "rh_caudalanteriorcingulate",
+    "rh_caudalmiddlefrontal",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_postcentral",
+    "rh_posteriorcingulate",
+    "rh_rostralanteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_temporalpole"
+  ],
+  "behavioral": [
+    "lh_caudalanteriorcingulate",
+    "lh_isthmuscingulate",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_isthmuscingulate",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_rostralanteriorcingulate"
+  ],
+  "arrest": [
+    "lh_caudalanteriorcingulate",
+    "lh_caudalmiddlefrontal",
+    "lh_frontalpole",
+    "lh_isthmuscingulate",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_rostralanteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalanteriorcingulate",
+    "rh_caudalmiddlefrontal",
+    "rh_frontalpole",
+    "rh_isthmuscingulate",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_rostralanteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "stare": [
+    "lh_caudalanteriorcingulate",
+    "lh_parahippocampal",
+    "lh_rostralanteriorcingulate",
+    "lh_temporalpole",
+    "rh_caudalanteriorcingulate",
+    "rh_parahippocampal",
+    "rh_rostralanteriorcingulate",
+    "rh_temporalpole"
+  ],
+  "followed": [
+    "lh_caudalanteriorcingulate",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parahippocampal",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parahippocampal",
+    "rh_rostralanteriorcingulate"
+  ],
+  "complex": [
+    "lh_caudalanteriorcingulate",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_rostralanteriorcingulate",
+    "lh_transversetemporal",
+    "rh_caudalanteriorcingulate",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_rostralanteriorcingulate",
+    "rh_transversetemporal"
+  ],
+  "rocking": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "pelvic": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "thrusting": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "even": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "lh_superiortemporal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate",
+    "rh_superiortemporal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "taking": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "steps": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "along": [
+    "lh_caudalanteriorcingulate",
+    "lh_postcentral",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_postcentral",
+    "rh_rostralanteriorcingulate"
+  ],
+  "vocalizations": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "like": [
+    "lh_caudalanteriorcingulate",
+    "lh_frontalpole",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_parsorbitalis",
+    "lh_precuneus",
+    "lh_rostralanteriorcingulate",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_caudalanteriorcingulate",
+    "rh_frontalpole",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_parsorbitalis",
+    "rh_precuneus",
+    "rh_rostralanteriorcingulate",
+    "rh_supramarginal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "grunts": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "shouts": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "intense": [
+    "lh_caudalanteriorcingulate",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parahippocampal",
+    "lh_rostralanteriorcingulate",
+    "lh_temporalpole",
+    "rh_caudalanteriorcingulate",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parahippocampal",
+    "rh_rostralanteriorcingulate",
+    "rh_temporalpole"
+  ],
+  "feelings": [
+    "lh_caudalanteriorcingulate",
+    "lh_posteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_posteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "fear": [
+    "Left_Amygdala",
+    "Left_Hippocampus",
+    "lh_caudalanteriorcingulate",
+    "lh_entorhinal",
+    "lh_inferiortemporal",
+    "lh_parahippocampal",
+    "lh_rostralanteriorcingulate",
+    "lh_temporalpole",
+    "rh_caudalanteriorcingulate",
+    "rh_entorhinal",
+    "rh_inferiortemporal",
+    "rh_parahippocampal",
+    "rh_rostralanteriorcingulate",
+    "rh_temporalpole"
+  ],
+  "emotions": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "occur": [
+    "lh_caudalanteriorcingulate",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_parsorbitalis",
+    "lh_rostralanteriorcingulate",
+    "lh_superiorparietal",
+    "rh_caudalanteriorcingulate",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_parsorbitalis",
+    "rh_rostralanteriorcingulate",
+    "rh_superiorparietal"
+  ],
+  "autonomic": [
+    "lh_caudalanteriorcingulate",
+    "lh_entorhinal",
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parsorbitalis",
+    "lh_rostralanteriorcingulate",
+    "lh_temporalpole",
+    "rh_caudalanteriorcingulate",
+    "rh_entorhinal",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parsorbitalis",
+    "rh_rostralanteriorcingulate",
+    "rh_temporalpole"
+  ],
+  "changes": [
+    "lh_caudalanteriorcingulate",
+    "lh_entorhinal",
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_entorhinal",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_rostralanteriorcingulate"
+  ],
+  "flushing": [
+    "lh_caudalanteriorcingulate",
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_rostralanteriorcingulate",
+    "lh_temporalpole",
+    "rh_caudalanteriorcingulate",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_rostralanteriorcingulate",
+    "rh_temporalpole"
+  ],
+  "heart": [
+    "lh_caudalanteriorcingulate",
+    "lh_entorhinal",
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_rostralanteriorcingulate",
+    "lh_temporalpole",
+    "rh_caudalanteriorcingulate",
+    "rh_entorhinal",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_rostralanteriorcingulate",
+    "rh_temporalpole"
+  ],
+  "rate": [
+    "lh_caudalanteriorcingulate",
+    "lh_entorhinal",
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_entorhinal",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_rostralanteriorcingulate"
+  ],
+  "common": [
+    "Left_Hippocampus",
+    "lh_caudalanteriorcingulate",
+    "lh_entorhinal",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_rostralanteriorcingulate",
+    "lh_transversetemporal",
+    "rh_caudalanteriorcingulate",
+    "rh_entorhinal",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_rostralanteriorcingulate",
+    "rh_transversetemporal"
+  ],
+  "urinary": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "incontinence": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "reported": [
+    "lh_caudalanteriorcingulate",
+    "lh_fusiform",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_fusiform",
+    "rh_rostralanteriorcingulate"
+  ],
+  "cases": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "overall": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "picture": [
+    "lh_caudalanteriorcingulate",
+    "lh_lateraloccipital",
+    "lh_rostralanteriorcingulate",
+    "lh_superiorparietal",
+    "rh_caudalanteriorcingulate",
+    "rh_lateraloccipital",
+    "rh_rostralanteriorcingulate",
+    "rh_superiorparietal"
+  ],
+  "overlaps": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "mesial": [
+    "Left_Hippocampus",
+    "lh_caudalanteriorcingulate",
+    "lh_parahippocampal",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_parahippocampal",
+    "rh_rostralanteriorcingulate"
+  ],
+  "supplementary": [
+    "lh_caudalanteriorcingulate",
+    "lh_paracentral",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_paracentral",
+    "rh_rostralanteriorcingulate"
+  ],
+  "area": [
+    "lh_caudalanteriorcingulate",
+    "lh_caudalmiddlefrontal",
+    "lh_inferiorparietal",
+    "lh_lateraloccipital",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_posteriorcingulate",
+    "lh_precentral",
+    "lh_rostralanteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "rh_caudalanteriorcingulate",
+    "rh_caudalmiddlefrontal",
+    "rh_inferiorparietal",
+    "rh_lateraloccipital",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_posteriorcingulate",
+    "rh_precentral",
+    "rh_rostralanteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal"
+  ],
+  "prominent": [
+    "lh_caudalanteriorcingulate",
+    "lh_entorhinal",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_entorhinal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_rostralanteriorcingulate"
+  ],
+  "vocal": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "outbursts": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "particularly": [
+    "lh_caudalanteriorcingulate",
+    "lh_rostralanteriorcingulate",
+    "rh_caudalanteriorcingulate",
+    "rh_rostralanteriorcingulate"
+  ],
+  "characteristic": [
+    "lh_caudalanteriorcingulate",
+    "lh_parahippocampal",
+    "lh_precentral",
+    "lh_rostralanteriorcingulate",
+    "lh_superiortemporal",
+    "rh_caudalanteriorcingulate",
+    "rh_parahippocampal",
+    "rh_precentral",
+    "rh_rostralanteriorcingulate",
+    "rh_superiortemporal"
+  ],
+  "dorsolateral": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "middle": [
+    "lh_caudalmiddlefrontal",
+    "lh_middletemporal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_middletemporal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "involve": [
+    "Left_Amygdala",
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_pericalcarine",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_pericalcarine",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "forced": [
+    "lh_caudalmiddlefrontal",
+    "lh_frontalpole",
+    "lh_lingual",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_frontalpole",
+    "rh_lingual",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "postures": [
+    "lh_caudalmiddlefrontal",
+    "lh_paracentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_paracentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "gaze": [
+    "lh_caudalmiddlefrontal",
+    "lh_lingual",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_lingual",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "deviation": [
+    "lh_caudalmiddlefrontal",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "develop": [
+    "lh_caudalmiddlefrontal",
+    "lh_isthmuscingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_isthmuscingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "unnatural": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "tonic": [
+    "lh_caudalmiddlefrontal",
+    "lh_isthmuscingulate",
+    "lh_paracentral",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_posteriorcingulate",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_isthmuscingulate",
+    "rh_paracentral",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_posteriorcingulate",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "arm": [
+    "lh_caudalmiddlefrontal",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_caudalmiddlefrontal",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "leg": [
+    "lh_caudalmiddlefrontal",
+    "lh_paracentral",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "rh_caudalmiddlefrontal",
+    "rh_paracentral",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal"
+  ],
+  "eyes": [
+    "lh_caudalmiddlefrontal",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "head": [
+    "lh_caudalmiddlefrontal",
+    "lh_frontalpole",
+    "lh_precuneus",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_frontalpole",
+    "rh_precuneus",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "turn": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "opposite": [
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "side": [
+    "lh_caudalmiddlefrontal",
+    "lh_frontalpole",
+    "lh_inferiorparietal",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "lh_superiortemporal",
+    "lh_transversetemporal",
+    "rh_caudalmiddlefrontal",
+    "rh_frontalpole",
+    "rh_inferiorparietal",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal",
+    "rh_superiortemporal",
+    "rh_transversetemporal"
+  ],
+  "lesion": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "focus": [
+    "lh_caudalmiddlefrontal",
+    "lh_inferiorparietal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_postcentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_inferiorparietal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_postcentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "broca": [
+    "lh_caudalmiddlefrontal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "patient": [
+    "lh_caudalmiddlefrontal",
+    "lh_entorhinal",
+    "lh_inferiorparietal",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiortemporal",
+    "lh_temporalpole",
+    "rh_caudalmiddlefrontal",
+    "rh_entorhinal",
+    "rh_inferiorparietal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiortemporal",
+    "rh_temporalpole"
+  ],
+  "experience": [
+    "lh_caudalmiddlefrontal",
+    "lh_inferiorparietal",
+    "lh_insula",
+    "lh_lingual",
+    "lh_middletemporal",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsorbitalis",
+    "lh_postcentral",
+    "lh_precuneus",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "rh_caudalmiddlefrontal",
+    "rh_inferiorparietal",
+    "rh_insula",
+    "rh_lingual",
+    "rh_middletemporal",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsorbitalis",
+    "rh_postcentral",
+    "rh_precuneus",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiortemporal",
+    "rh_supramarginal"
+  ],
+  "awake": [
+    "lh_caudalmiddlefrontal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "suddenly": [
+    "lh_caudalmiddlefrontal",
+    "lh_cuneus",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_pericalcarine",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_transversetemporal",
+    "rh_caudalmiddlefrontal",
+    "rh_cuneus",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_pericalcarine",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_transversetemporal"
+  ],
+  "unable": [
+    "lh_caudalmiddlefrontal",
+    "lh_middletemporal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_middletemporal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "speak": [
+    "lh_caudalmiddlefrontal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiortemporal",
+    "rh_caudalmiddlefrontal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiortemporal"
+  ],
+  "individuals": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "experiencing": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "thought": [
+    "lh_caudalmiddlefrontal",
+    "lh_frontalpole",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_frontalpole",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "onset": [
+    "Right_Hippocampus",
+    "lh_caudalmiddlefrontal",
+    "lh_entorhinal",
+    "lh_frontalpole",
+    "lh_isthmuscingulate",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsorbitalis",
+    "lh_posteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_entorhinal",
+    "rh_frontalpole",
+    "rh_isthmuscingulate",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsorbitalis",
+    "rh_posteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "involuntary": [
+    "lh_caudalmiddlefrontal",
+    "lh_postcentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_postcentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "urge": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "reflecting": [
+    "lh_caudalmiddlefrontal",
+    "lh_entorhinal",
+    "lh_fusiform",
+    "lh_parsorbitalis",
+    "lh_precuneus",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_entorhinal",
+    "rh_fusiform",
+    "rh_parsorbitalis",
+    "rh_precuneus",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "higher": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal"
+  ],
+  "order": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiorparietal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiorparietal"
+  ],
+  "cortical": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "involvement": [
+    "Right_Cerebellum_Cortex",
+    "Right_Thalamus",
+    "lh_caudalmiddlefrontal",
+    "lh_entorhinal",
+    "lh_middletemporal",
+    "lh_posteriorcingulate",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_caudalmiddlefrontal",
+    "rh_entorhinal",
+    "rh_middletemporal",
+    "rh_posteriorcingulate",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_supramarginal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "usually": [
+    "lh_caudalmiddlefrontal",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_posteriorcingulate",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_transversetemporal",
+    "rh_caudalmiddlefrontal",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_posteriorcingulate",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_transversetemporal"
+  ],
+  "brief": [
+    "lh_caudalmiddlefrontal",
+    "lh_frontalpole",
+    "lh_insula",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_paracentral",
+    "lh_parsorbitalis",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "rh_caudalmiddlefrontal",
+    "rh_frontalpole",
+    "rh_insula",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_paracentral",
+    "rh_parsorbitalis",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_supramarginal",
+    "rh_temporalpole"
+  ],
+  "rapidly": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "generalize": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_superiortemporal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_superiortemporal"
+  ],
+  "propagate": [
+    "lh_caudalmiddlefrontal",
+    "lh_lingual",
+    "lh_precuneus",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_supramarginal",
+    "rh_caudalmiddlefrontal",
+    "rh_lingual",
+    "rh_precuneus",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_supramarginal"
+  ],
+  "secondary": [
+    "lh_caudalmiddlefrontal",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "lh_transversetemporal",
+    "rh_caudalmiddlefrontal",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal",
+    "rh_transversetemporal"
+  ],
+  "clonic": [
+    "Left_Cerebellum_Cortex",
+    "lh_caudalmiddlefrontal",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "activity": [
+    "lh_caudalmiddlefrontal",
+    "lh_frontalpole",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_precentral",
+    "lh_rostralmiddlefrontal",
+    "lh_superiorfrontal",
+    "rh_caudalmiddlefrontal",
+    "rh_frontalpole",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_precentral",
+    "rh_rostralmiddlefrontal",
+    "rh_superiorfrontal"
+  ],
+  "primary": [
+    "lh_cuneus",
+    "lh_frontalpole",
+    "lh_isthmuscingulate",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_transversetemporal",
+    "rh_cuneus",
+    "rh_frontalpole",
+    "rh_isthmuscingulate",
+    "rh_pericalcarine",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_transversetemporal"
+  ],
+  "visual": [
+    "lh_cuneus",
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_pericalcarine",
+    "lh_precuneus",
+    "lh_supramarginal",
+    "rh_cuneus",
+    "rh_fusiform",
+    "rh_inferiortemporal",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_pericalcarine",
+    "rh_precuneus",
+    "rh_supramarginal"
+  ],
+  "occipital": [
+    "lh_cuneus",
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_fusiform",
+    "rh_inferiortemporal",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_pericalcarine"
+  ],
+  "including": [
+    "lh_cuneus",
+    "lh_paracentral",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_paracentral",
+    "rh_pericalcarine"
+  ],
+  "cuneus": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "classically": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "hallucinations": [
+    "lh_cuneus",
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "lh_parsorbitalis",
+    "lh_pericalcarine",
+    "lh_precuneus",
+    "lh_transversetemporal",
+    "rh_cuneus",
+    "rh_fusiform",
+    "rh_inferiortemporal",
+    "rh_parsorbitalis",
+    "rh_pericalcarine",
+    "rh_precuneus",
+    "rh_transversetemporal"
+  ],
+  "half": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "field": [
+    "lh_cuneus",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_pericalcarine"
+  ],
+  "see": [
+    "lh_cuneus",
+    "lh_fusiform",
+    "lh_lateraloccipital",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_fusiform",
+    "rh_lateraloccipital",
+    "rh_pericalcarine"
+  ],
+  "flashes": [
+    "lh_cuneus",
+    "lh_lateraloccipital",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_lateraloccipital",
+    "rh_pericalcarine"
+  ],
+  "light": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "bright": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "lh_precuneus",
+    "rh_cuneus",
+    "rh_pericalcarine",
+    "rh_precuneus"
+  ],
+  "colors": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "small": [
+    "lh_cuneus",
+    "lh_lingual",
+    "lh_pericalcarine",
+    "lh_superiorparietal",
+    "rh_cuneus",
+    "rh_lingual",
+    "rh_pericalcarine",
+    "rh_superiorparietal"
+  ],
+  "flickering": [
+    "lh_cuneus",
+    "lh_lingual",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_lingual",
+    "rh_pericalcarine"
+  ],
+  "shapes": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "appear": [
+    "lh_cuneus",
+    "lh_lateraloccipital",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_pericalcarine",
+    "lh_posteriorcingulate",
+    "lh_precuneus",
+    "lh_superiortemporal",
+    "rh_cuneus",
+    "rh_lateraloccipital",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_pericalcarine",
+    "rh_posteriorcingulate",
+    "rh_precuneus",
+    "rh_superiortemporal"
+  ],
+  "last": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "seconds": [
+    "lh_cuneus",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_pericalcarine"
+  ],
+  "couple": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "minutes": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "rh_cuneus",
+    "rh_pericalcarine",
+    "rh_postcentral"
+  ],
+  "elementary": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "auras": [
+    "Left_Amygdala",
+    "Right_Hippocampus",
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_inferiortemporal",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_pericalcarine",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_inferiortemporal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_pericalcarine",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "remain": [
+    "lh_cuneus",
+    "lh_inferiorparietal",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_inferiorparietal",
+    "rh_pericalcarine"
+  ],
+  "isolated": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "confined": [
+    "lh_cuneus",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_pericalcarine"
+  ],
+  "frequently": [
+    "lh_cuneus",
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_pericalcarine",
+    "lh_temporalpole",
+    "rh_cuneus",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_pericalcarine",
+    "rh_temporalpole"
+  ],
+  "loss": [
+    "Left_Thalamus",
+    "lh_cuneus",
+    "lh_insula",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_parsorbitalis",
+    "lh_pericalcarine",
+    "lh_superiorparietal",
+    "rh_cuneus",
+    "rh_insula",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_parsorbitalis",
+    "rh_pericalcarine",
+    "rh_superiorparietal"
+  ],
+  "oral": [
+    "lh_cuneus",
+    "lh_entorhinal",
+    "lh_insula",
+    "lh_parahippocampal",
+    "lh_pericalcarine",
+    "lh_transversetemporal",
+    "rh_cuneus",
+    "rh_entorhinal",
+    "rh_insula",
+    "rh_parahippocampal",
+    "rh_pericalcarine",
+    "rh_transversetemporal"
+  ],
+  "commonly": [
+    "lh_cuneus",
+    "lh_isthmuscingulate",
+    "lh_pericalcarine",
+    "lh_superiorparietal",
+    "rh_cuneus",
+    "rh_isthmuscingulate",
+    "rh_pericalcarine",
+    "rh_superiorparietal"
+  ],
+  "trigger": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "lh_postcentral",
+    "rh_cuneus",
+    "rh_pericalcarine",
+    "rh_postcentral"
+  ],
+  "headache": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "afterward": [
+    "lh_cuneus",
+    "lh_paracentral",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_paracentral",
+    "rh_pericalcarine"
+  ],
+  "mistaken": [
+    "lh_cuneus",
+    "lh_frontalpole",
+    "lh_paracentral",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_frontalpole",
+    "rh_paracentral",
+    "rh_pericalcarine"
+  ],
+  "migraine": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "recognized": [
+    "lh_cuneus",
+    "lh_pericalcarine",
+    "rh_cuneus",
+    "rh_pericalcarine"
+  ],
+  "entorhinal": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "medial": [
+    "lh_entorhinal",
+    "lh_isthmuscingulate",
+    "lh_paracentral",
+    "rh_entorhinal",
+    "rh_isthmuscingulate",
+    "rh_paracentral"
+  ],
+  "gives": [
+    "lh_entorhinal",
+    "lh_transversetemporal",
+    "rh_entorhinal",
+    "rh_transversetemporal"
+  ],
+  "rise": [
+    "lh_entorhinal",
+    "lh_precuneus",
+    "rh_entorhinal",
+    "rh_precuneus"
+  ],
+  "experiential": [
+    "lh_entorhinal",
+    "lh_inferiortemporal",
+    "rh_entorhinal",
+    "rh_inferiortemporal"
+  ],
+  "symptom": [
+    "lh_entorhinal",
+    "lh_superiortemporal",
+    "rh_entorhinal",
+    "rh_superiortemporal"
+  ],
+  "vivid": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "d\u00e9j\u00e0": [
+    "Left_Hippocampus",
+    "lh_entorhinal",
+    "lh_inferiortemporal",
+    "lh_parahippocampal",
+    "lh_precuneus",
+    "rh_entorhinal",
+    "rh_inferiortemporal",
+    "rh_parahippocampal",
+    "rh_precuneus"
+  ],
+  "overwhelming": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "feeling": [
+    "lh_entorhinal",
+    "lh_inferiorparietal",
+    "lh_parahippocampal",
+    "lh_postcentral",
+    "lh_precuneus",
+    "rh_entorhinal",
+    "rh_inferiorparietal",
+    "rh_parahippocampal",
+    "rh_postcentral",
+    "rh_precuneus"
+  ],
+  "present": [
+    "lh_entorhinal",
+    "lh_inferiortemporal",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_entorhinal",
+    "rh_inferiortemporal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "moment": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "experienced": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "jamais": [
+    "lh_entorhinal",
+    "lh_parahippocampal",
+    "rh_entorhinal",
+    "rh_parahippocampal"
+  ],
+  "also": [
+    "lh_entorhinal",
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "lh_insula",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_lingual",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_parsorbitalis",
+    "lh_precuneus",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "rh_entorhinal",
+    "rh_fusiform",
+    "rh_inferiorparietal",
+    "rh_insula",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_lingual",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_parsorbitalis",
+    "rh_precuneus",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_temporalpole"
+  ],
+  "perceive": [
+    "lh_entorhinal",
+    "lh_lingual",
+    "rh_entorhinal",
+    "rh_lingual"
+  ],
+  "foul": [
+    "lh_entorhinal",
+    "lh_temporalpole",
+    "rh_entorhinal",
+    "rh_temporalpole"
+  ],
+  "odor": [
+    "lh_entorhinal",
+    "lh_temporalpole",
+    "rh_entorhinal",
+    "rh_temporalpole"
+  ],
+  "odd": [
+    "lh_entorhinal",
+    "lh_frontalpole",
+    "rh_entorhinal",
+    "rh_frontalpole"
+  ],
+  "taste": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "uncinate": [
+    "lh_entorhinal",
+    "lh_temporalpole",
+    "rh_entorhinal",
+    "rh_temporalpole"
+  ],
+  "rising": [
+    "Left_Hippocampus",
+    "lh_entorhinal",
+    "lh_parahippocampal",
+    "rh_entorhinal",
+    "rh_parahippocampal"
+  ],
+  "sensation": [
+    "lh_entorhinal",
+    "lh_frontalpole",
+    "lh_inferiorparietal",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_parahippocampal",
+    "lh_parsorbitalis",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_entorhinal",
+    "rh_frontalpole",
+    "rh_inferiorparietal",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_parahippocampal",
+    "rh_parsorbitalis",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "stomach": [
+    "lh_entorhinal",
+    "lh_parahippocampal",
+    "rh_entorhinal",
+    "rh_parahippocampal"
+  ],
+  "early": [
+    "lh_entorhinal",
+    "lh_insula",
+    "lh_precuneus",
+    "lh_superiortemporal",
+    "rh_entorhinal",
+    "rh_insula",
+    "rh_precuneus",
+    "rh_superiortemporal"
+  ],
+  "panic": [
+    "Left_Amygdala",
+    "lh_entorhinal",
+    "lh_temporalpole",
+    "rh_entorhinal",
+    "rh_temporalpole"
+  ],
+  "strike": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "inexplicably": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "discharge": [
+    "lh_entorhinal",
+    "lh_parsorbitalis",
+    "lh_postcentral",
+    "rh_entorhinal",
+    "rh_parsorbitalis",
+    "rh_postcentral"
+  ],
+  "hippocampus": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "amygdala": [
+    "Right_Amygdala",
+    "lh_entorhinal",
+    "lh_temporalpole",
+    "rh_entorhinal",
+    "rh_temporalpole"
+  ],
+  "lost": [
+    "lh_entorhinal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_superiortemporal",
+    "rh_entorhinal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_superiortemporal"
+  ],
+  "develops": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "typical": [
+    "lh_entorhinal",
+    "lh_fusiform",
+    "rh_entorhinal",
+    "rh_fusiform"
+  ],
+  "hand": [
+    "lh_entorhinal",
+    "lh_inferiortemporal",
+    "lh_middletemporal",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_temporalpole",
+    "rh_entorhinal",
+    "rh_inferiortemporal",
+    "rh_middletemporal",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_temporalpole"
+  ],
+  "chewing": [
+    "lh_entorhinal",
+    "lh_parahippocampal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_entorhinal",
+    "rh_parahippocampal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "swallowing": [
+    "lh_entorhinal",
+    "lh_inferiortemporal",
+    "lh_middletemporal",
+    "rh_entorhinal",
+    "rh_inferiortemporal",
+    "rh_middletemporal"
+  ],
+  "picking": [
+    "lh_entorhinal",
+    "lh_parahippocampal",
+    "rh_entorhinal",
+    "rh_parahippocampal"
+  ],
+  "clothes": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "signs": [
+    "lh_entorhinal",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_posteriorcingulate",
+    "lh_precentral",
+    "lh_precuneus",
+    "lh_supramarginal",
+    "rh_entorhinal",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_posteriorcingulate",
+    "rh_precentral",
+    "rh_precuneus",
+    "rh_supramarginal"
+  ],
+  "pale": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "pupils": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "dilate": [
+    "lh_entorhinal",
+    "rh_entorhinal"
+  ],
+  "limbic": [
+    "lh_entorhinal",
+    "lh_inferiortemporal",
+    "lh_isthmuscingulate",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parsorbitalis",
+    "lh_precuneus",
+    "lh_temporalpole",
+    "rh_entorhinal",
+    "rh_inferiortemporal",
+    "rh_isthmuscingulate",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parsorbitalis",
+    "rh_precuneus",
+    "rh_temporalpole"
+  ],
+  "networks": [
+    "lh_entorhinal",
+    "lh_inferiortemporal",
+    "lh_isthmuscingulate",
+    "lh_parsorbitalis",
+    "lh_temporalpole",
+    "rh_entorhinal",
+    "rh_inferiortemporal",
+    "rh_isthmuscingulate",
+    "rh_parsorbitalis",
+    "rh_temporalpole"
+  ],
+  "frontopolar": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "pole": [
+    "lh_frontalpole",
+    "lh_temporalpole",
+    "rh_frontalpole",
+    "rh_temporalpole"
+  ],
+  "lobes": [
+    "lh_frontalpole",
+    "lh_paracentral",
+    "rh_frontalpole",
+    "rh_paracentral"
+  ],
+  "quiet": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "simply": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "pause": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "become": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "unresponsive": [
+    "lh_frontalpole",
+    "lh_parahippocampal",
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_frontalpole",
+    "rh_parahippocampal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "glassy": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "eyed": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "without": [
+    "lh_frontalpole",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_frontalpole",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "far": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "areas": [
+    "lh_frontalpole",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_superiorparietal",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_transversetemporal",
+    "rh_frontalpole",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_superiorparietal",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_transversetemporal"
+  ],
+  "overt": [
+    "lh_frontalpole",
+    "lh_isthmuscingulate",
+    "rh_frontalpole",
+    "rh_isthmuscingulate"
+  ],
+  "movements": [
+    "lh_frontalpole",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_superiorparietal",
+    "lh_temporalpole",
+    "rh_frontalpole",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_superiorparietal",
+    "rh_temporalpole"
+  ],
+  "minimal": [
+    "lh_frontalpole",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_paracentral",
+    "rh_frontalpole",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_paracentral"
+  ],
+  "evolves": [
+    "lh_frontalpole",
+    "lh_temporalpole",
+    "rh_frontalpole",
+    "rh_temporalpole"
+  ],
+  "recruit": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "adjacent": [
+    "lh_frontalpole",
+    "lh_inferiortemporal",
+    "lh_parsorbitalis",
+    "lh_postcentral",
+    "rh_frontalpole",
+    "rh_inferiortemporal",
+    "rh_parsorbitalis",
+    "rh_postcentral"
+  ],
+  "regions": [
+    "lh_frontalpole",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_lingual",
+    "lh_middletemporal",
+    "lh_parsorbitalis",
+    "lh_supramarginal",
+    "rh_frontalpole",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_lingual",
+    "rh_middletemporal",
+    "rh_parsorbitalis",
+    "rh_supramarginal"
+  ],
+  "automatic": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "behaviors": [
+    "lh_frontalpole",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_posteriorcingulate",
+    "lh_superiortemporal",
+    "lh_temporalpole",
+    "rh_frontalpole",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_posteriorcingulate",
+    "rh_superiortemporal",
+    "rh_temporalpole"
+  ],
+  "wandering": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "fidgeting": [
+    "lh_frontalpole",
+    "lh_superiortemporal",
+    "rh_frontalpole",
+    "rh_superiortemporal"
+  ],
+  "late": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "features": [
+    "lh_frontalpole",
+    "lh_fusiform",
+    "lh_parsorbitalis",
+    "lh_temporalpole",
+    "rh_frontalpole",
+    "rh_fusiform",
+    "rh_parsorbitalis",
+    "rh_temporalpole"
+  ],
+  "eye": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "turning": [
+    "lh_frontalpole",
+    "lh_precuneus",
+    "rh_frontalpole",
+    "rh_precuneus"
+  ],
+  "one": [
+    "lh_frontalpole",
+    "lh_inferiorparietal",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_precentral",
+    "lh_superiorparietal",
+    "lh_transversetemporal",
+    "rh_frontalpole",
+    "rh_inferiorparietal",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_paracentral",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_precentral",
+    "rh_superiorparietal",
+    "rh_transversetemporal"
+  ],
+  "occasionally": [
+    "lh_frontalpole",
+    "lh_inferiortemporal",
+    "lh_postcentral",
+    "rh_frontalpole",
+    "rh_inferiortemporal",
+    "rh_postcentral"
+  ],
+  "describe": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "start": [
+    "lh_frontalpole",
+    "lh_isthmuscingulate",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_precentral",
+    "lh_temporalpole",
+    "rh_frontalpole",
+    "rh_isthmuscingulate",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_precentral",
+    "rh_temporalpole"
+  ],
+  "memory": [
+    "lh_frontalpole",
+    "lh_inferiortemporal",
+    "lh_precuneus",
+    "rh_frontalpole",
+    "rh_inferiortemporal",
+    "rh_precuneus"
+  ],
+  "event": [
+    "lh_frontalpole",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_superiortemporal",
+    "rh_frontalpole",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_superiortemporal"
+  ],
+  "patchy": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "absence": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "fainting": [
+    "lh_frontalpole",
+    "rh_frontalpole"
+  ],
+  "due": [
+    "lh_frontalpole",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parsorbitalis",
+    "lh_supramarginal",
+    "lh_temporalpole",
+    "rh_frontalpole",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parsorbitalis",
+    "rh_supramarginal",
+    "rh_temporalpole"
+  ],
+  "subtle": [
+    "Right_Hippocampus",
+    "lh_frontalpole",
+    "lh_isthmuscingulate",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_frontalpole",
+    "rh_isthmuscingulate",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "appearance": [
+    "lh_frontalpole",
+    "lh_lateraloccipital",
+    "rh_frontalpole",
+    "rh_lateraloccipital"
+  ],
+  "fusiform": [
+    "lh_fusiform",
+    "rh_fusiform"
+  ],
+  "lies": [
+    "lh_fusiform",
+    "rh_fusiform"
+  ],
+  "temporo": [
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "rh_fusiform",
+    "rh_inferiortemporal"
+  ],
+  "junction": [
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "rh_fusiform",
+    "rh_inferiorparietal"
+  ],
+  "processing": [
+    "lh_fusiform",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "lh_transversetemporal",
+    "rh_fusiform",
+    "rh_superiortemporal",
+    "rh_supramarginal",
+    "rh_transversetemporal"
+  ],
+  "recognition": [
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "rh_fusiform",
+    "rh_inferiortemporal"
+  ],
+  "faces": [
+    "lh_fusiform",
+    "rh_fusiform"
+  ],
+  "objects": [
+    "lh_fusiform",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "rh_fusiform",
+    "rh_lateraloccipital",
+    "rh_lingual"
+  ],
+  "therefore": [
+    "lh_fusiform",
+    "rh_fusiform"
+  ],
+  "elaborate": [
+    "lh_fusiform",
+    "rh_fusiform"
+  ],
+  "scenes": [
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "lh_lingual",
+    "lh_precuneus",
+    "rh_fusiform",
+    "rh_inferiortemporal",
+    "rh_lingual",
+    "rh_precuneus"
+  ],
+  "distorted": [
+    "lh_fusiform",
+    "lh_lingual",
+    "rh_fusiform",
+    "rh_lingual"
+  ],
+  "briefly": [
+    "lh_fusiform",
+    "rh_fusiform"
+  ],
+  "unrecognizable": [
+    "lh_fusiform",
+    "rh_fusiform"
+  ],
+  "perceiving": [
+    "lh_fusiform",
+    "rh_fusiform"
+  ],
+  "people": [
+    "lh_fusiform",
+    "lh_superiortemporal",
+    "rh_fusiform",
+    "rh_superiortemporal"
+  ],
+  "grotesquely": [
+    "lh_fusiform",
+    "rh_fusiform"
+  ],
+  "altered": [
+    "lh_fusiform",
+    "lh_supramarginal",
+    "rh_fusiform",
+    "rh_supramarginal"
+  ],
+  "role": [
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_precuneus",
+    "rh_fusiform",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_precuneus"
+  ],
+  "face": [
+    "lh_fusiform",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_postcentral",
+    "lh_precentral",
+    "rh_fusiform",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_postcentral",
+    "rh_precentral"
+  ],
+  "perception": [
+    "lh_fusiform",
+    "lh_inferiorparietal",
+    "rh_fusiform",
+    "rh_inferiorparietal"
+  ],
+  "spread": [
+    "Left_Thalamus",
+    "lh_fusiform",
+    "lh_inferiortemporal",
+    "lh_insula",
+    "lh_isthmuscingulate",
+    "lh_lateraloccipital",
+    "lh_parsorbitalis",
+    "lh_postcentral",
+    "lh_posteriorcingulate",
+    "lh_precuneus",
+    "lh_superiorparietal",
+    "lh_superiortemporal",
+    "lh_supramarginal",
+    "rh_fusiform",
+    "rh_inferiortemporal",
+    "rh_insula",
+    "rh_isthmuscingulate",
+    "rh_lateraloccipital",
+    "rh_parsorbitalis",
+    "rh_postcentral",
+    "rh_posteriorcingulate",
+    "rh_precuneus",
+    "rh_superiorparietal",
+    "rh_superiortemporal",
+    "rh_supramarginal"
+  ],
+  "beyond": [
+    "lh_fusiform",
+    "lh_superiortemporal",
+    "rh_fusiform",
+    "rh_superiortemporal"
+  ],
+  "inferior": [
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "lh_supramarginal",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis",
+    "rh_supramarginal"
+  ],
+  "parietal": [
+    "lh_inferiorparietal",
+    "lh_paracentral",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_inferiorparietal",
+    "rh_paracentral",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "lobule": [
+    "lh_inferiorparietal",
+    "lh_paracentral",
+    "lh_superiorparietal",
+    "rh_inferiorparietal",
+    "rh_paracentral",
+    "rh_superiorparietal"
+  ],
+  "angular": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "highly": [
+    "lh_inferiorparietal",
+    "lh_parahippocampal",
+    "rh_inferiorparietal",
+    "rh_parahippocampal"
+  ],
+  "subjective": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "sensory": [
+    "Right_Thalamus",
+    "lh_inferiorparietal",
+    "lh_inferiortemporal",
+    "lh_paracentral",
+    "lh_postcentral",
+    "lh_precuneus",
+    "lh_superiorparietal",
+    "rh_inferiorparietal",
+    "rh_inferiortemporal",
+    "rh_paracentral",
+    "rh_postcentral",
+    "rh_precuneus",
+    "rh_superiorparietal"
+  ],
+  "body": [
+    "lh_inferiorparietal",
+    "lh_insula",
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_precuneus",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_inferiorparietal",
+    "rh_insula",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_precuneus",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "image": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "spatial": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "instance": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "floating": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "missing": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "greatly": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "enlarged": [
+    "lh_inferiorparietal",
+    "lh_lateraloccipital",
+    "rh_inferiorparietal",
+    "rh_lateraloccipital"
+  ],
+  "illusions": [
+    "lh_inferiorparietal",
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_precuneus",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_inferiorparietal",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_precuneus",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "vertigo": [
+    "lh_inferiorparietal",
+    "lh_supramarginal",
+    "rh_inferiorparietal",
+    "rh_supramarginal"
+  ],
+  "dizziness": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "temporoparietal": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "left": [
+    "lh_inferiorparietal",
+    "lh_superiortemporal",
+    "rh_inferiorparietal",
+    "rh_superiortemporal"
+  ],
+  "transiently": [
+    "lh_inferiorparietal",
+    "lh_middletemporal",
+    "rh_inferiorparietal",
+    "rh_middletemporal"
+  ],
+  "disrupt": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "wernicke": [
+    "lh_inferiorparietal",
+    "lh_middletemporal",
+    "lh_superiortemporal",
+    "rh_inferiorparietal",
+    "rh_middletemporal",
+    "rh_superiortemporal"
+  ],
+  "surrounding": [
+    "lh_inferiorparietal",
+    "lh_insula",
+    "rh_inferiorparietal",
+    "rh_insula"
+  ],
+  "affected": [
+    "lh_inferiorparietal",
+    "lh_postcentral",
+    "lh_precentral",
+    "rh_inferiorparietal",
+    "rh_postcentral",
+    "rh_precentral"
+  ],
+  "whereas": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "nondominant": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "neglect": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "space": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "confusion": [
+    "lh_inferiorparietal",
+    "lh_lingual",
+    "lh_paracentral",
+    "lh_supramarginal",
+    "rh_inferiorparietal",
+    "rh_lingual",
+    "rh_paracentral",
+    "rh_supramarginal"
+  ],
+  "relationships": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "phenomena": [
+    "lh_inferiorparietal",
+    "rh_inferiorparietal"
+  ],
+  "focal": [
+    "lh_inferiorparietal",
+    "lh_postcentral",
+    "lh_temporalpole",
+    "rh_inferiorparietal",
+    "rh_postcentral",
+    "rh_temporalpole"
+  ],
+  "stays": [
+    "lh_inferiorparietal",
+    "lh_lateraloccipital",
+    "rh_inferiorparietal",
+    "rh_lateraloccipital"
+  ],
+  "aware": [
+    "lh_inferiorparietal",
+    "lh_precentral",
+    "lh_precuneus",
+    "rh_inferiorparietal",
+    "rh_precentral",
+    "rh_precuneus"
+  ],
+  "unless": [
+    "lh_inferiorparietal",
+    "lh_precentral",
+    "lh_supramarginal",
+    "rh_inferiorparietal",
+    "rh_precentral",
+    "rh_supramarginal"
+  ],
+  "mix": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "object": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "example": [
+    "lh_inferiortemporal",
+    "lh_lateraloccipital",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_precentral",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "lh_transversetemporal",
+    "rh_inferiortemporal",
+    "rh_lateraloccipital",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_precentral",
+    "rh_superiorparietal",
+    "rh_supramarginal",
+    "rh_transversetemporal"
+  ],
+  "seeing": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "formed": [
+    "lh_inferiortemporal",
+    "lh_lateraloccipital",
+    "rh_inferiortemporal",
+    "rh_lateraloccipital"
+  ],
+  "images": [
+    "lh_inferiortemporal",
+    "lh_lateraloccipital",
+    "rh_inferiortemporal",
+    "rh_lateraloccipital"
+  ],
+  "aren": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "real": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "reflects": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "association": [
+    "lh_inferiortemporal",
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "lh_middletemporal",
+    "lh_superiortemporal",
+    "rh_inferiortemporal",
+    "rh_lateraloccipital",
+    "rh_lingual",
+    "rh_middletemporal",
+    "rh_superiortemporal"
+  ],
+  "others": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "engages": [
+    "lh_inferiortemporal",
+    "lh_lateraloccipital",
+    "lh_temporalpole",
+    "rh_inferiortemporal",
+    "rh_lateraloccipital",
+    "rh_temporalpole"
+  ],
+  "follows": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "person": [
+    "lh_inferiortemporal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_precentral",
+    "lh_precuneus",
+    "lh_transversetemporal",
+    "rh_inferiortemporal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_precentral",
+    "rh_precuneus",
+    "rh_transversetemporal"
+  ],
+  "staring": [
+    "lh_inferiortemporal",
+    "lh_posteriorcingulate",
+    "rh_inferiortemporal",
+    "rh_posteriorcingulate"
+  ],
+  "performing": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "repetitive": [
+    "lh_inferiortemporal",
+    "lh_lingual",
+    "lh_middletemporal",
+    "lh_temporalpole",
+    "rh_inferiortemporal",
+    "rh_lingual",
+    "rh_middletemporal",
+    "rh_temporalpole"
+  ],
+  "near": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "structures": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "joy": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "precede": [
+    "lh_inferiortemporal",
+    "rh_inferiortemporal"
+  ],
+  "well": [
+    "lh_inferiortemporal",
+    "lh_precuneus",
+    "rh_inferiortemporal",
+    "rh_precuneus"
+  ],
+  "insular": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "distinctive": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "internal": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "sensations": [
+    "Left_Amygdala",
+    "Left_Hippocampus",
+    "lh_insula",
+    "lh_precuneus",
+    "lh_temporalpole",
+    "rh_insula",
+    "rh_precuneus",
+    "rh_temporalpole"
+  ],
+  "throat": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "tightness": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "laryngeal": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "constriction": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "unpleasant": [
+    "lh_insula",
+    "lh_parahippocampal",
+    "rh_insula",
+    "rh_parahippocampal"
+  ],
+  "tingling": [
+    "lh_insula",
+    "lh_postcentral",
+    "lh_superiorparietal",
+    "rh_insula",
+    "rh_postcentral",
+    "rh_superiorparietal"
+  ],
+  "warmth": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "still": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "fully": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "conscious": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "result": [
+    "Right_Thalamus",
+    "lh_insula",
+    "rh_insula"
+  ],
+  "soon": [
+    "lh_insula",
+    "lh_parsorbitalis",
+    "lh_temporalpole",
+    "rh_insula",
+    "rh_parsorbitalis",
+    "rh_temporalpole"
+  ],
+  "resemble": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "epigastric": [
+    "Left_Hippocampus",
+    "lh_insula",
+    "lh_parahippocampal",
+    "rh_insula",
+    "rh_parahippocampal"
+  ],
+  "hypermotor": [
+    "lh_insula",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_insula",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "depending": [
+    "lh_insula",
+    "lh_precentral",
+    "lh_precuneus",
+    "rh_insula",
+    "rh_precentral",
+    "rh_precuneus"
+  ],
+  "propagation": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "nausea": [
+    "lh_insula",
+    "lh_parahippocampal",
+    "rh_insula",
+    "rh_parahippocampal"
+  ],
+  "insula": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "visceral": [
+    "lh_insula",
+    "rh_insula"
+  ],
+  "control": [
+    "lh_insula",
+    "lh_lingual",
+    "rh_insula",
+    "rh_lingual"
+  ],
+  "isthmus": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "posterior": [
+    "lh_isthmuscingulate",
+    "lh_posteriorcingulate",
+    "rh_isthmuscingulate",
+    "rh_posteriorcingulate"
+  ],
+  "transition": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "zone": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "deep": [
+    "lh_isthmuscingulate",
+    "lh_posteriorcingulate",
+    "rh_isthmuscingulate",
+    "rh_posteriorcingulate"
+  ],
+  "midline": [
+    "lh_isthmuscingulate",
+    "lh_paracentral",
+    "lh_posteriorcingulate",
+    "rh_isthmuscingulate",
+    "rh_paracentral",
+    "rh_posteriorcingulate"
+  ],
+  "tend": [
+    "lh_isthmuscingulate",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_isthmuscingulate",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "clear": [
+    "lh_isthmuscingulate",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_isthmuscingulate",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "vague": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "making": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "hard": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "recognize": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "clinically": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "connected": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "emerge": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "unresponsiveness": [
+    "lh_isthmuscingulate",
+    "lh_posteriorcingulate",
+    "rh_isthmuscingulate",
+    "rh_posteriorcingulate"
+  ],
+  "suggesting": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "bilateral": [
+    "Left_Thalamus",
+    "lh_isthmuscingulate",
+    "lh_paracentral",
+    "rh_isthmuscingulate",
+    "rh_paracentral"
+  ],
+  "semiologically": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "silent": [
+    "lh_isthmuscingulate",
+    "lh_posteriorcingulate",
+    "rh_isthmuscingulate",
+    "rh_posteriorcingulate"
+  ],
+  "misidentified": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "epilepsy": [
+    "Left_Hippocampus",
+    "lh_isthmuscingulate",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_middletemporal",
+    "lh_parahippocampal",
+    "lh_posteriorcingulate",
+    "lh_transversetemporal",
+    "rh_isthmuscingulate",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_middletemporal",
+    "rh_parahippocampal",
+    "rh_posteriorcingulate",
+    "rh_transversetemporal"
+  ],
+  "specialized": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "monitoring": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "pinpoints": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "origin": [
+    "lh_isthmuscingulate",
+    "rh_isthmuscingulate"
+  ],
+  "rather": [
+    "lh_lateraloccipital",
+    "rh_lateraloccipital"
+  ],
+  "parts": [
+    "lh_lateraloccipital",
+    "lh_paracentral",
+    "lh_postcentral",
+    "lh_supramarginal",
+    "rh_lateraloccipital",
+    "rh_paracentral",
+    "rh_postcentral",
+    "rh_supramarginal"
+  ],
+  "environment": [
+    "lh_lateraloccipital",
+    "rh_lateraloccipital"
+  ],
+  "change": [
+    "lh_lateraloccipital",
+    "lh_supramarginal",
+    "rh_lateraloccipital",
+    "rh_supramarginal"
+  ],
+  "size": [
+    "lh_lateraloccipital",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_lateraloccipital",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "shape": [
+    "lh_lateraloccipital",
+    "rh_lateraloccipital"
+  ],
+  "shrunken": [
+    "lh_lateraloccipital",
+    "lh_supramarginal",
+    "rh_lateraloccipital",
+    "rh_supramarginal"
+  ],
+  "micropsia": [
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "rh_lateraloccipital",
+    "rh_lingual"
+  ],
+  "macropsia": [
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "rh_lateraloccipital",
+    "rh_lingual"
+  ],
+  "section": [
+    "lh_lateraloccipital",
+    "rh_lateraloccipital"
+  ],
+  "vision": [
+    "lh_lateraloccipital",
+    "rh_lateraloccipital"
+  ],
+  "pulled": [
+    "lh_lateraloccipital",
+    "rh_lateraloccipital"
+  ],
+  "contraversive": [
+    "lh_lateraloccipital",
+    "rh_lateraloccipital"
+  ],
+  "exhibit": [
+    "lh_lateraloccipital",
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateraloccipital",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "rhythmic": [
+    "lh_lateraloccipital",
+    "rh_lateraloccipital"
+  ],
+  "twitching": [
+    "lh_lateraloccipital",
+    "lh_precentral",
+    "rh_lateraloccipital",
+    "rh_precentral"
+  ],
+  "nystagmus": [
+    "lh_lateraloccipital",
+    "lh_lingual",
+    "rh_lateraloccipital",
+    "rh_lingual"
+  ],
+  "motion": [
+    "lh_lateraloccipital",
+    "rh_lateraloccipital"
+  ],
+  "pathways": [
+    "lh_lateraloccipital",
+    "rh_lateraloccipital"
+  ],
+  "remains": [
+    "lh_lateraloccipital",
+    "lh_parsorbitalis",
+    "lh_precentral",
+    "lh_precuneus",
+    "rh_lateraloccipital",
+    "rh_parsorbitalis",
+    "rh_precentral",
+    "rh_precuneus"
+  ],
+  "consciousness": [
+    "Left_Thalamus",
+    "lh_lateraloccipital",
+    "lh_parahippocampal",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_postcentral",
+    "lh_supramarginal",
+    "rh_lateraloccipital",
+    "rh_parahippocampal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_postcentral",
+    "rh_supramarginal"
+  ],
+  "intact": [
+    "lh_lateraloccipital",
+    "rh_lateraloccipital"
+  ],
+  "add": [
+    "lh_lateraloccipital",
+    "lh_superiorparietal",
+    "rh_lateraloccipital",
+    "rh_superiorparietal"
+  ],
+  "clinical": [
+    "lh_lateraloccipital",
+    "lh_superiorparietal",
+    "rh_lateraloccipital",
+    "rh_superiorparietal"
+  ],
+  "orbitofrontal": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parsorbitalis",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parsorbitalis"
+  ],
+  "warning": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "sleep": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_paracentral",
+    "lh_parsorbitalis",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_paracentral",
+    "rh_parsorbitalis"
+  ],
+  "immediate": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "distinct": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "agitated": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "kicking": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "thrashing": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "bed": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "sometimes": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_paracentral",
+    "lh_transversetemporal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_paracentral",
+    "rh_transversetemporal"
+  ],
+  "running": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "bizarre": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_paracentral",
+    "lh_precuneus",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_paracentral",
+    "rh_precuneus"
+  ],
+  "gesturing": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "breathing": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "connections": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parsorbitalis",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parsorbitalis"
+  ],
+  "feature": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "olfactory": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parahippocampal",
+    "lh_parsorbitalis",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parahippocampal",
+    "rh_parsorbitalis"
+  ],
+  "phantom": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_temporalpole",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_temporalpole"
+  ],
+  "smell": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "lh_parsorbitalis",
+    "lh_temporalpole",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal",
+    "rh_parsorbitalis",
+    "rh_temporalpole"
+  ],
+  "fleeting": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "misdiagnosed": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "disorder": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "psychiatric": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "nocturnal": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "lack": [
+    "lh_lateralorbitofrontal",
+    "lh_medialorbitofrontal",
+    "rh_lateralorbitofrontal",
+    "rh_medialorbitofrontal"
+  ],
+  "affecting": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "lingual": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "cause": [
+    "Left_Cerebellum_Cortex",
+    "Left_Thalamus",
+    "Right_Amygdala",
+    "Right_Cerebellum_Cortex",
+    "lh_lingual",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_posteriorcingulate",
+    "lh_precentral",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_lingual",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_posteriorcingulate",
+    "rh_precentral",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "abnormally": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "large": [
+    "lh_lingual",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_lingual",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "surreal": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "lights": [
+    "lh_lingual",
+    "lh_precuneus",
+    "rh_lingual",
+    "rh_precuneus"
+  ],
+  "colorful": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "patterns": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "portion": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "jerking": [
+    "lh_lingual",
+    "lh_precentral",
+    "rh_lingual",
+    "rh_precentral"
+  ],
+  "accompany": [
+    "lh_lingual",
+    "lh_parsorbitalis",
+    "lh_temporalpole",
+    "rh_lingual",
+    "rh_parsorbitalis",
+    "rh_temporalpole"
+  ],
+  "episodes": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "nearby": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "ocular": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "preserved": [
+    "lh_lingual",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_superiorparietal",
+    "rh_lingual",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_superiorparietal"
+  ],
+  "larger": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "generalized": [
+    "lh_lingual",
+    "lh_transversetemporal",
+    "rh_lingual",
+    "rh_transversetemporal"
+  ],
+  "convulsions": [
+    "lh_lingual",
+    "rh_lingual"
+  ],
+  "belong": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "related": [
+    "lh_middletemporal",
+    "lh_posteriorcingulate",
+    "rh_middletemporal",
+    "rh_posteriorcingulate"
+  ],
+  "fragment": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "music": [
+    "lh_middletemporal",
+    "lh_superiortemporal",
+    "rh_middletemporal",
+    "rh_superiortemporal"
+  ],
+  "suggests": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "impair": [
+    "lh_middletemporal",
+    "lh_postcentral",
+    "lh_supramarginal",
+    "rh_middletemporal",
+    "rh_postcentral",
+    "rh_supramarginal"
+  ],
+  "similar": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "causing": [
+    "Left_Hippocampus",
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "confused": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "words": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "ictus": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "accompanied": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "dystonia": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "subcortical": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "assisting": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "lateralization": [
+    "lh_middletemporal",
+    "rh_middletemporal"
+  ],
+  "paracentral": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "spans": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "representation": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "cortices": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "characteristically": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "especially": [
+    "lh_paracentral",
+    "lh_parsorbitalis",
+    "rh_paracentral",
+    "rh_parsorbitalis"
+  ],
+  "involving": [
+    "Left_Thalamus",
+    "lh_paracentral",
+    "lh_superiorparietal",
+    "rh_paracentral",
+    "rh_superiorparietal"
+  ],
+  "legs": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "stiffening": [
+    "lh_paracentral",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_precentral",
+    "rh_paracentral",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_precentral"
+  ],
+  "lower": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "limbs": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "assume": [
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "rh_paracentral",
+    "rh_parahippocampal"
+  ],
+  "asymmetrical": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "posture": [
+    "lh_paracentral",
+    "lh_parahippocampal",
+    "rh_paracentral",
+    "rh_parahippocampal"
+  ],
+  "extended": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "flexed": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "periods": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "end": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "abruptly": [
+    "lh_paracentral",
+    "lh_parsorbitalis",
+    "rh_paracentral",
+    "rh_parsorbitalis"
+  ],
+  "lasting": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "loud": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "vocalization": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "grunt": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "cry": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "deviate": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "contralaterally": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "tendency": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "night": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "terrors": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "parasomnias": [
+    "lh_paracentral",
+    "rh_paracentral"
+  ],
+  "parahippocampal": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "classic": [
+    "lh_parahippocampal",
+    "lh_temporalpole",
+    "rh_parahippocampal",
+    "rh_temporalpole"
+  ],
+  "associated": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "butterflies": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "sense": [
+    "lh_parahippocampal",
+    "lh_precuneus",
+    "lh_supramarginal",
+    "rh_parahippocampal",
+    "rh_precuneus",
+    "rh_supramarginal"
+  ],
+  "familiarity": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "strangeness": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "hallucination": [
+    "lh_parahippocampal",
+    "lh_superiortemporal",
+    "rh_parahippocampal",
+    "rh_superiortemporal"
+  ],
+  "smelling": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "something": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "burnt": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "nowhere": [
+    "lh_parahippocampal",
+    "lh_precuneus",
+    "rh_parahippocampal",
+    "rh_precuneus"
+  ],
+  "wave": [
+    "lh_parahippocampal",
+    "lh_temporalpole",
+    "rh_parahippocampal",
+    "rh_temporalpole"
+  ],
+  "mark": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "beginning": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "within": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "display": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "manual": [
+    "lh_parahippocampal",
+    "lh_transversetemporal",
+    "rh_parahippocampal",
+    "rh_transversetemporal"
+  ],
+  "dystonic": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "stiff": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "constellation": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "hippocampal": [
+    "lh_parahippocampal",
+    "rh_parahippocampal"
+  ],
+  "pars": [
+    "lh_parsopercularis",
+    "lh_parsorbitalis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parsorbitalis",
+    "rh_parstriangularis"
+  ],
+  "opercularis": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "crucial": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "production": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "disturbance": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "midst": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "anything": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "expressive": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "addition": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_superiorparietal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_superiorparietal"
+  ],
+  "impairment": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_transversetemporal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_transversetemporal"
+  ],
+  "toward": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "though": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_superiorparietal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_superiorparietal"
+  ],
+  "cannot": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "lh_superiortemporal",
+    "rh_parsopercularis",
+    "rh_parstriangularis",
+    "rh_superiortemporal"
+  ],
+  "communicate": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "non": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "right": [
+    "Right_Amygdala",
+    "Right_Thalamus",
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "handed": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "instead": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "facial": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "noted": [
+    "lh_parsopercularis",
+    "lh_parstriangularis",
+    "rh_parsopercularis",
+    "rh_parstriangularis"
+  ],
+  "orbitalis": [
+    "lh_parsorbitalis",
+    "rh_parsorbitalis"
+  ],
+  "overlapping": [
+    "lh_parsorbitalis",
+    "rh_parsorbitalis"
+  ],
+  "epilepsies": [
+    "lh_parsorbitalis",
+    "lh_posteriorcingulate",
+    "rh_parsorbitalis",
+    "rh_posteriorcingulate"
+  ],
+  "responsiveness": [
+    "lh_parsorbitalis",
+    "rh_parsorbitalis"
+  ],
+  "stop": [
+    "lh_parsorbitalis",
+    "rh_parsorbitalis"
+  ],
+  "speaking": [
+    "lh_parsorbitalis",
+    "rh_parsorbitalis"
+  ],
+  "hands": [
+    "lh_parsorbitalis",
+    "lh_superiortemporal",
+    "rh_parsorbitalis",
+    "rh_superiortemporal"
+  ],
+  "pupil": [
+    "lh_parsorbitalis",
+    "rh_parsorbitalis"
+  ],
+  "dilation": [
+    "lh_parsorbitalis",
+    "rh_parsorbitalis"
+  ],
+  "blood": [
+    "lh_parsorbitalis",
+    "rh_parsorbitalis"
+  ],
+  "pressure": [
+    "lh_parsorbitalis",
+    "rh_parsorbitalis"
+  ],
+  "centers": [
+    "lh_parsorbitalis",
+    "rh_parsorbitalis"
+  ],
+  "cluster": [
+    "lh_parsorbitalis",
+    "rh_parsorbitalis"
+  ],
+  "postcentral": [
+    "lh_postcentral",
+    "rh_postcentral"
+  ],
+  "somatosensory": [
+    "lh_postcentral",
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_postcentral",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "positive": [
+    "lh_postcentral",
+    "rh_postcentral"
+  ],
+  "paresthesias": [
+    "lh_postcentral",
+    "rh_postcentral"
+  ],
+  "numbness": [
+    "lh_postcentral",
+    "lh_superiorparietal",
+    "rh_postcentral",
+    "rh_superiorparietal"
+  ],
+  "pins": [
+    "lh_postcentral",
+    "rh_postcentral"
+  ],
+  "needles": [
+    "lh_postcentral",
+    "rh_postcentral"
+  ],
+  "specific": [
+    "lh_postcentral",
+    "rh_postcentral"
+  ],
+  "foot": [
+    "lh_postcentral",
+    "rh_postcentral"
+  ],
+  "systematically": [
+    "lh_postcentral",
+    "rh_postcentral"
+  ],
+  "propagates": [
+    "lh_postcentral",
+    "lh_transversetemporal",
+    "rh_postcentral",
+    "rh_transversetemporal"
+  ],
+  "homunculus": [
+    "lh_postcentral",
+    "lh_precentral",
+    "rh_postcentral",
+    "rh_precentral"
+  ],
+  "jacksonian": [
+    "lh_postcentral",
+    "lh_precentral",
+    "rh_postcentral",
+    "rh_precentral"
+  ],
+  "march": [
+    "lh_postcentral",
+    "lh_precentral",
+    "lh_superiorparietal",
+    "rh_postcentral",
+    "rh_precentral",
+    "rh_superiorparietal"
+  ],
+  "purely": [
+    "lh_postcentral",
+    "rh_postcentral"
+  ],
+  "however": [
+    "lh_postcentral",
+    "lh_superiorparietal",
+    "rh_postcentral",
+    "rh_superiorparietal"
+  ],
+  "transient": [
+    "lh_postcentral",
+    "lh_supramarginal",
+    "rh_postcentral",
+    "rh_supramarginal"
+  ],
+  "weakness": [
+    "lh_postcentral",
+    "lh_precentral",
+    "rh_postcentral",
+    "rh_precentral"
+  ],
+  "persist": [
+    "lh_postcentral",
+    "rh_postcentral"
+  ],
+  "version": [
+    "lh_postcentral",
+    "rh_postcentral"
+  ],
+  "todd": [
+    "lh_postcentral",
+    "lh_precentral",
+    "rh_postcentral",
+    "rh_precentral"
+  ],
+  "paralysis": [
+    "lh_postcentral",
+    "lh_precentral",
+    "rh_postcentral",
+    "rh_precentral"
+  ],
+  "deceptive": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "actual": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "produces": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "outward": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "generate": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "initially": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "seem": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "nonspecific": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "time": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "observable": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "propagated": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "show": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "suggestive": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "given": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "variability": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "mimics": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "localization": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "precise": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "diagnosis": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "requires": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "intracranial": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "eeg": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "evaluation": [
+    "lh_posteriorcingulate",
+    "rh_posteriorcingulate"
+  ],
+  "originating": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "precentral": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "strip": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "neighboring": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "muscle": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "groups": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "across": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "limited": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "generalizes": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "period": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "corresponding": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "exhausted": [
+    "lh_precentral",
+    "rh_precentral"
+  ],
+  "precuneus": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "notable": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "producing": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "unusual": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "integration": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "self": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "referential": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "information": [
+    "lh_precuneus",
+    "lh_supramarginal",
+    "rh_precuneus",
+    "rh_supramarginal"
+  ],
+  "vestibular": [
+    "lh_precuneus",
+    "lh_supramarginal",
+    "rh_precuneus",
+    "rh_supramarginal"
+  ],
+  "movement": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "flying": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "falling": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "tilting": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "appearing": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "give": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "experiences": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "detachment": [
+    "Right_Amygdala",
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "since": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "mimic": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "flashbacks": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "circuits": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "later": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "able": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "recall": [
+    "lh_precuneus",
+    "rh_precuneus"
+  ],
+  "primarily": [
+    "lh_superiorparietal",
+    "rh_superiorparietal"
+  ],
+  "misperceptions": [
+    "lh_superiorparietal",
+    "rh_superiorparietal"
+  ],
+  "feel": [
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "electric": [
+    "lh_superiorparietal",
+    "rh_superiorparietal"
+  ],
+  "spreading": [
+    "lh_superiorparietal",
+    "rh_superiorparietal"
+  ],
+  "pattern": [
+    "lh_superiorparietal",
+    "rh_superiorparietal"
+  ],
+  "next": [
+    "lh_superiorparietal",
+    "rh_superiorparietal"
+  ],
+  "wrong": [
+    "lh_superiorparietal",
+    "rh_superiorparietal"
+  ],
+  "position": [
+    "lh_superiorparietal",
+    "lh_supramarginal",
+    "rh_superiorparietal",
+    "rh_supramarginal"
+  ],
+  "changed": [
+    "lh_superiorparietal",
+    "rh_superiorparietal"
+  ],
+  "unnaturally": [
+    "lh_superiorparietal",
+    "rh_superiorparietal"
+  ],
+  "affect": [
+    "lh_superiortemporal",
+    "rh_superiortemporal"
+  ],
+  "tone": [
+    "lh_superiortemporal",
+    "lh_transversetemporal",
+    "rh_superiortemporal",
+    "rh_transversetemporal"
+  ],
+  "activated": [
+    "lh_superiortemporal",
+    "rh_superiortemporal"
+  ],
+  "said": [
+    "lh_superiortemporal",
+    "rh_superiortemporal"
+  ],
+  "gibberish": [
+    "lh_superiortemporal",
+    "rh_superiortemporal"
+  ],
+  "progresses": [
+    "lh_superiortemporal",
+    "rh_superiortemporal"
+  ],
+  "automotor": [
+    "Right_Hippocampus",
+    "lh_superiortemporal",
+    "rh_superiortemporal"
+  ],
+  "mouthing": [
+    "lh_superiortemporal",
+    "rh_superiortemporal"
+  ],
+  "secondarily": [
+    "lh_superiortemporal",
+    "rh_superiortemporal"
+  ],
+  "discharges": [
+    "lh_superiortemporal",
+    "rh_superiortemporal"
+  ],
+  "supramarginal": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "integrates": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "tactile": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "striking": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "bodily": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "move": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "hasn": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "feels": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "enormously": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "tilted": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "case": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "additional": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "overlay": [
+    "lh_supramarginal",
+    "rh_supramarginal"
+  ],
+  "network": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "psychic": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "anxiety": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "euphoria": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "described": [
+    "lh_temporalpole",
+    "lh_transversetemporal",
+    "rh_temporalpole",
+    "rh_transversetemporal"
+  ],
+  "burning": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "signals": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "uncus": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "becomes": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "blankly": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "racing": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "crying": [
+    "Right_Amygdala",
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "activation": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "amygdalar": [
+    "lh_temporalpole",
+    "rh_temporalpole"
+  ],
+  "transverse": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "heschl": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "contains": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "hear": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "humming": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "static": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "localized": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "ear": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "unlike": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "unformed": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "reflect": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "way": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "neocortex": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "becoming": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "exhibiting": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "rubbing": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "fingers": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "convulsion": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "although": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "less": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "pure": [
+    "lh_transversetemporal",
+    "rh_transversetemporal"
+  ],
+  "cerebellar": [
+    "Left_Cerebellum_Cortex"
+  ],
+  "rare": [
+    "Left_Cerebellum_Cortex"
+  ],
+  "ataxia": [
+    "Left_Cerebellum_Cortex",
+    "Right_Cerebellum_Cortex"
+  ],
+  "tremors": [
+    "Left_Cerebellum_Cortex"
+  ],
+  "site": [
+    "Left_Hippocampus"
+  ],
+  "thalamus": [
+    "Left_Thalamus"
+  ],
+  "widespread": [
+    "Left_Thalamus"
+  ],
+  "sided": [
+    "Right_Amygdala"
+  ],
+  "laughter": [
+    "Right_Amygdala"
+  ],
+  "gait": [
+    "Right_Cerebellum_Cortex"
+  ],
+  "instability": [
+    "Right_Cerebellum_Cortex"
+  ],
+  "affective": [
+    "Right_Hippocampus"
+  ],
+  "thalamic": [
+    "Right_Thalamus"
+  ],
+  "disruption": [
+    "Right_Thalamus"
+  ]
+}
