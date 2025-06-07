@@ -1,5 +1,16 @@
 import React from 'react';
-import { btnStyle } from '../styles/buttonStyle';
+import {
+  ZoomIn,
+  ZoomOut,
+  RefreshCw,
+  Eye,
+  EyeOff,
+  Brain,
+  Sun,
+  Moon,
+  ArrowLeft,
+  ArrowRight
+} from 'lucide-react';
 
 export default function ControlsOverlay({
   cameraRef,
@@ -11,20 +22,34 @@ export default function ControlsOverlay({
 }) {
   const zoom = (factor) => {
     if (!cameraRef.current) return;
-    cameraRef.current.zoom *= factor;
+    const newZoom = cameraRef.current.zoom * factor;
+    if (newZoom < 0.2 || newZoom > 5) return;  // limit zoom range
+    cameraRef.current.zoom = newZoom;
+    cameraRef.current.updateProjectionMatrix();
     cameraRef.current.updateProjectionMatrix();
   };
 
   const reset = () => {
     if (!cameraRef.current) return;
-
-    // Reset camera
     cameraRef.current.position.set(0, 0, 300);
     cameraRef.current.zoom = 1;
     cameraRef.current.updateProjectionMatrix();
-
-    // Notify parent to reset mesh opacities
     resetView();
+  };
+
+  const isMobile = window.innerWidth <= 768;
+  const baseButtonStyle = {
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#444',
+    color: '#fff',
+    border: 'none',
+    borderRadius: '0.5rem',
+    padding: isMobile ? '0.5rem' : '0.5rem 0.75rem',
+    width: isMobile ? '2.5rem' : 'auto',
+    height: isMobile ? '2.5rem' : 'auto',
+    cursor: 'pointer'
   };
 
   return (
@@ -42,13 +67,13 @@ export default function ControlsOverlay({
       maxHeight: '90vh',
       overflowY: 'auto'
     }}>
-      <button onClick={() => zoom(1.2)} style={btnStyle}>＋ Zoom In</button>
-      <button onClick={() => zoom(0.8)} style={btnStyle}>－ Zoom Out</button>
-      <button onClick={reset} style={btnStyle}>⟳ Reset View</button>
-      <button onClick={toggleRight} style={btnStyle}>Toggle Rt. Hemisphere</button>
-      <button onClick={toggleLeft} style={btnStyle}>Toggle Lt. Hemisphere</button>
-      <button onClick={toggleSubcortical} style={btnStyle}>Toggle Subcortical</button>
-      <button onClick={toggleTheme} style={btnStyle}>Toggle Theme</button>
+      <button title="Zoom In" onClick={() => zoom(1.2)} style={baseButtonStyle}><ZoomIn size={20} /></button>
+      <button title="Zoom Out" onClick={() => zoom(0.8)} style={baseButtonStyle}><ZoomOut size={20} /></button>
+      <button title="Reset View" onClick={reset} style={baseButtonStyle}><RefreshCw size={20} /></button>
+      <button title="Toggle Right Hemisphere" onClick={toggleRight} style={baseButtonStyle}><ArrowRight size={20} /></button>
+      <button title="Toggle Left Hemisphere" onClick={toggleLeft} style={baseButtonStyle}><ArrowLeft size={20} /></button>
+      <button title="Toggle Subcortical" onClick={toggleSubcortical} style={baseButtonStyle}><Brain size={20} /></button>
+      <button title="Toggle Theme" onClick={toggleTheme} style={baseButtonStyle}>{isMobile ? <Moon size={20} /> : <Sun size={20} />}</button>
     </div>
   );
 }

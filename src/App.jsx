@@ -1,11 +1,8 @@
+
+import React from 'react';
 import BrainRegionViewer from './components/BrainRegionViewer';
+import './App.css';
 
-function App() {
-  return (
-    <div className="min-h-screen bg-gray-100">
-      <BrainRegionViewer />
-    </div>
-  );
+export default function App() {
+  return <BrainRegionViewer />;
 }
-
-export default App;
